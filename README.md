@@ -113,9 +113,9 @@ graph TB
       ]
   }'
    ```
-
+```bash
 2. **Query the system**
-   ```bash
+   <!-- ```bash -->
   curl -X POST "http://localhost:8000/api/v1/query" \
   -H "Content-Type: application/json" \
   -H "API-Key: my-rag-system-password-123" \
