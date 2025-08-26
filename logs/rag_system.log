@@ -1,0 +1,1388 @@
+2025-08-21 16:49:30,322 - core.document_processor - INFO - Document processor initialized
+2025-08-21 16:51:30,983 - core.document_processor - INFO - Document processor initialized
+2025-08-21 16:55:10,682 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-21 17:46:40,162 - core.document_processor - INFO - Document processor initialized
+2025-08-21 17:48:44,475 - core.document_processor - INFO - Document processor initialized
+2025-08-21 17:48:55,391 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-21 17:48:56,867 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-21 17:48:56,867 - core.query_processor - INFO - Query processor initialized
+2025-08-21 17:49:46,906 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-21 17:50:43,463 - core.document_processor - INFO - Document processor initialized
+2025-08-21 17:50:54,668 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-21 17:50:55,238 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-21 17:50:55,238 - core.query_processor - INFO - Query processor initialized
+2025-08-21 17:50:59,181 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-21 17:51:23,222 - core.document_processor - INFO - Document processor initialized
+2025-08-21 17:51:33,681 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-21 17:51:34,223 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-21 17:51:34,224 - core.query_processor - INFO - Query processor initialized
+2025-08-21 17:51:38,384 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-21 17:57:18,528 - core.document_processor - INFO - Document processor initialized
+2025-08-21 17:57:27,371 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-21 17:57:27,943 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-21 17:57:27,943 - core.query_processor - INFO - Query processor initialized
+2025-08-21 17:57:30,809 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-21 17:57:31,444 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-21 17:57:31,444 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-21 18:48:32,166 - core.document_processor - INFO - Document processor initialized
+2025-08-21 18:48:43,110 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-21 18:48:43,689 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-21 18:48:43,690 - core.query_processor - INFO - Query processor initialized
+2025-08-21 18:48:47,664 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-21 18:48:48,253 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-21 18:48:48,253 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-21 19:36:17,096 - api.middleware - INFO - Request 5a1ef886-95cf-423f-94ef-1eb249d90e07 POST /api/v1/query completed in 0.00s with status 422
+2025-08-21 19:57:29,530 - core.document_processor - INFO - Document processor initialized
+2025-08-21 19:57:43,583 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-21 19:57:44,197 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-21 19:57:44,197 - core.query_processor - INFO - Query processor initialized
+2025-08-21 19:57:52,421 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-21 19:57:53,057 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-21 19:57:53,057 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-21 19:58:09,946 - core.document_processor - INFO - Document processor initialized
+2025-08-21 19:58:19,795 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-21 19:58:21,018 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-21 19:58:21,018 - core.query_processor - INFO - Query processor initialized
+2025-08-21 19:58:24,948 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-21 19:58:26,213 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-21 19:58:26,213 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-21 19:59:59,053 - core.document_processor - INFO - Document processor initialized
+2025-08-21 20:00:09,154 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-21 20:00:09,687 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-21 20:00:09,688 - core.query_processor - INFO - Query processor initialized
+2025-08-21 20:00:12,968 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-21 20:00:13,555 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-21 20:00:13,555 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-21 20:06:24,596 - api.middleware - INFO - Request 0127ed02-923b-494e-bbfb-c8d6df3392e2 POST /api/v1/query completed in 0.01s with status 500
+2025-08-21 20:09:10,148 - core.document_processor - INFO - Document processor initialized
+2025-08-21 20:09:20,639 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-21 20:09:21,187 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-21 20:09:21,187 - core.query_processor - INFO - Query processor initialized
+2025-08-21 20:09:25,289 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-21 20:09:25,897 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-21 20:09:25,897 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-21 20:18:48,181 - core.document_processor - INFO - Document processor initialized
+2025-08-21 20:19:00,931 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-21 20:19:01,494 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-21 20:19:01,494 - core.query_processor - INFO - Query processor initialized
+2025-08-21 20:19:04,760 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-21 20:19:05,417 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-21 20:19:05,417 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-21 20:19:38,377 - api.middleware - INFO - Request fec12616-aae1-410c-81fc-5dd75f85d672 POST /api/v1/ingest completed in 0.00s with status 200
+2025-08-21 20:22:20,949 - api.middleware - INFO - Request f7e70ea0-a9d2-4829-8835-800a1ef1d4b2 POST /api/v1/query completed in 0.00s with status 500
+2025-08-21 20:24:14,017 - core.document_processor - INFO - Document processor initialized
+2025-08-21 20:24:25,643 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-21 20:24:26,253 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-21 20:24:26,254 - core.query_processor - INFO - Query processor initialized
+2025-08-21 20:24:32,868 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-21 20:24:33,465 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-21 20:24:33,465 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-21 20:24:35,667 - core.document_processor - INFO - Document processor initialized
+2025-08-21 20:24:55,810 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-21 20:24:56,329 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-21 20:24:56,329 - core.query_processor - INFO - Query processor initialized
+2025-08-21 20:25:16,320 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-21 20:25:16,947 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-21 20:25:16,947 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-21 20:25:54,201 - api.middleware - INFO - Request 21dd443f-fd8a-4941-9b0f-cd99b08b0421 POST /api/v1/query completed in 0.00s with status 500
+2025-08-21 20:28:50,251 - core.document_processor - INFO - Document processor initialized
+2025-08-21 20:28:59,348 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-21 20:28:59,878 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-21 20:28:59,878 - core.query_processor - INFO - Query processor initialized
+2025-08-21 20:29:10,231 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-21 20:29:10,863 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-21 20:29:10,864 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-21 20:29:12,775 - core.document_processor - INFO - Document processor initialized
+2025-08-21 20:29:21,879 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-21 20:29:22,462 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-21 20:29:22,462 - core.query_processor - INFO - Query processor initialized
+2025-08-21 20:29:25,926 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-21 20:29:26,549 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-21 20:29:26,550 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-21 20:30:05,326 - core.document_processor - INFO - Document processor initialized
+2025-08-21 20:30:14,935 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-21 20:30:15,501 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-21 20:30:15,501 - core.query_processor - INFO - Query processor initialized
+2025-08-21 20:30:18,392 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-21 20:30:19,014 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-21 20:30:19,014 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-21 20:30:41,039 - api.middleware - INFO - Request 9740c7d7-bc0f-46e6-a3e6-5fce951f6865 POST /api/v1/ingest completed in 0.00s with status 200
+2025-08-21 20:31:26,984 - api.middleware - INFO - Request 1b720dab-7276-4725-b50e-8db26c3a4e9f POST /api/v1/query completed in 0.00s with status 500
+2025-08-21 20:37:13,122 - core.document_processor - INFO - Document processor initialized
+2025-08-21 20:37:25,253 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-21 20:37:25,789 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-21 20:37:25,789 - core.query_processor - INFO - Query processor initialized
+2025-08-21 20:37:30,191 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-21 20:37:30,816 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-21 20:37:30,816 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-21 20:37:53,634 - core.document_processor - INFO - Document processor initialized
+2025-08-21 20:38:04,850 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-21 20:38:05,416 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-21 20:38:05,416 - core.query_processor - INFO - Query processor initialized
+2025-08-21 20:38:10,567 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-21 20:38:11,178 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-21 20:38:11,178 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-21 20:38:30,935 - api.middleware - INFO - Request f83470ea-0d28-406c-829c-8092b9ad96a3 POST /api/v1/ingest completed in 0.00s with status 200
+2025-08-21 20:38:30,937 - core.rag_system - INFO - Starting ingestion of 2 documents
+2025-08-21 20:38:30,937 - core.document_processor - WARNING - File \data\test1.txt does not exist, skipping
+2025-08-21 20:38:30,937 - core.document_processor - WARNING - File \data\test2.txt does not exist, skipping
+2025-08-21 20:38:30,937 - core.document_processor - INFO - Loaded 0 documents
+2025-08-21 20:38:30,937 - core.document_processor - INFO - Created 0 chunks from 0 documents
+2025-08-21 20:38:44,700 - api.middleware - INFO - Request 3973f073-1405-4d1e-8216-cdbabdbacf24 POST /api/v1/query completed in 0.00s with status 500
+2025-08-21 20:44:52,779 - api.middleware - INFO - Request 917082f7-e6d4-4044-a13e-42f8d51bc5cd POST /api/v1/ingest completed in 0.00s with status 200
+2025-08-21 20:44:52,779 - core.rag_system - INFO - Starting ingestion of 2 documents
+2025-08-21 20:44:52,779 - core.document_processor - WARNING - File \data\test1.txt does not exist, skipping
+2025-08-21 20:44:52,779 - core.document_processor - WARNING - File \data\test2.txt does not exist, skipping
+2025-08-21 20:44:52,779 - core.document_processor - INFO - Loaded 0 documents
+2025-08-21 20:44:52,779 - core.document_processor - INFO - Created 0 chunks from 0 documents
+2025-08-21 20:45:29,045 - api.middleware - INFO - Request a4224e43-f843-401a-8272-4f01f096bf05 POST /api/v1/ingest completed in 0.00s with status 422
+2025-08-21 20:46:11,677 - api.middleware - INFO - Request 8582fd2b-e31e-48f1-a3bb-a0c09f2c0683 POST /api/v1/ingest completed in 0.00s with status 422
+2025-08-21 20:47:13,188 - api.middleware - INFO - Request 525efbb1-8945-4daf-91c3-129998363d8a POST /api/v1/ingest completed in 0.00s with status 200
+2025-08-21 20:47:13,188 - core.rag_system - INFO - Starting ingestion of 2 documents
+2025-08-21 20:47:13,188 - core.document_processor - ERROR - Error loading C:\Users\osama\OneDrive\Desktop\Usama_dev\Domain-Specific Semantic RAG with Query Transformation\data\test1.txt: 'txt' is not a valid FileType
+2025-08-21 20:47:13,188 - core.document_processor - ERROR - Error loading C:\Users\osama\OneDrive\Desktop\Usama_dev\Domain-Specific Semantic RAG with Query Transformation\data\test2.txt: 'txt' is not a valid FileType
+2025-08-21 20:47:13,188 - core.document_processor - INFO - Loaded 0 documents
+2025-08-21 20:47:13,188 - core.document_processor - INFO - Created 0 chunks from 0 documents
+2025-08-21 23:09:49,520 - core.document_processor - INFO - Document processor initialized
+2025-08-21 23:10:39,270 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-21 23:10:40,285 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-21 23:10:40,290 - core.query_processor - INFO - Query processor initialized
+2025-08-21 23:10:44,078 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-21 23:10:45,148 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-21 23:10:45,148 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-21 23:12:58,720 - api.middleware - INFO - Request 080f3ba9-a346-46c8-870e-cff12278917b GET / completed in 0.00s with status 200
+2025-08-21 23:14:26,609 - core.document_processor - INFO - Document processor initialized
+2025-08-21 23:14:59,266 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-21 23:14:59,969 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-21 23:14:59,969 - core.query_processor - INFO - Query processor initialized
+2025-08-21 23:15:05,707 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-21 23:15:06,524 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-21 23:15:06,524 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-21 23:15:33,016 - api.middleware - INFO - Request ad4eb1c4-18c6-4cc8-bb4f-c85412999cc8 POST /api/v1/ingest completed in 0.02s with status 422
+2025-08-21 23:16:10,314 - api.middleware - INFO - Request b79336eb-33e9-4154-9436-583c13b10bd3 POST /api/v1/ingest completed in 0.00s with status 422
+2025-08-21 23:16:53,932 - api.middleware - INFO - Request b59290f7-e0c4-4fd6-a3b0-6638d5c2328a POST /api/v1/ingest completed in 0.00s with status 422
+2025-08-23 23:42:32,150 - core.document_processor - INFO - Document processor initialized
+2025-08-23 23:43:24,071 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-23 23:43:26,833 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-23 23:43:26,833 - core.query_processor - INFO - Query processor initialized
+2025-08-23 23:43:31,154 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-23 23:43:32,274 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-23 23:43:32,274 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-23 23:48:43,898 - api.middleware - INFO - Request c6264789-4c02-4e06-800c-98611c090d9c POST /api/v1/ingest completed in 0.00s with status 422
+2025-08-23 23:53:43,411 - api.middleware - INFO - Request b053c3ef-7621-45ce-a190-3c447ae2979e POST /api/v1/ingest completed in 0.00s with status 422
+2025-08-23 23:55:36,257 - api.middleware - INFO - Request e2f5bc18-8dec-42fb-a7d0-299a2ad1572c POST /api/v1/ingest completed in 0.00s with status 200
+2025-08-23 23:55:36,266 - core.rag_system - INFO - Starting ingestion of 2 documents
+2025-08-23 23:55:36,282 - core.document_processor - ERROR - Error loading data\test1.txt: 'txt' is not a valid FileType
+2025-08-23 23:55:36,293 - core.document_processor - ERROR - Error loading data\test2.txt: 'txt' is not a valid FileType
+2025-08-23 23:55:36,293 - core.document_processor - INFO - Loaded 0 documents
+2025-08-23 23:55:36,293 - core.document_processor - INFO - Created 0 chunks from 0 documents
+2025-08-23 23:58:40,031 - api.middleware - INFO - Request a2213c55-d48d-4e92-8ecc-0bab90076b75 POST /api/v1/ingest completed in 0.00s with status 200
+2025-08-23 23:58:40,031 - core.rag_system - INFO - Starting ingestion of 2 documents
+2025-08-23 23:58:40,031 - core.document_processor - ERROR - Error loading data\test1.txt: 'txt' is not a valid FileType
+2025-08-23 23:58:40,031 - core.document_processor - ERROR - Error loading data\test2.txt: 'txt' is not a valid FileType
+2025-08-23 23:58:40,031 - core.document_processor - INFO - Loaded 0 documents
+2025-08-23 23:58:40,031 - core.document_processor - INFO - Created 0 chunks from 0 documents
+2025-08-23 23:58:54,421 - api.middleware - INFO - Request 05fe4370-5edf-4300-b848-47dc51dddd27 POST /api/v1/ingest completed in 0.00s with status 200
+2025-08-23 23:58:54,425 - core.rag_system - INFO - Starting ingestion of 2 documents
+2025-08-23 23:58:54,425 - core.document_processor - ERROR - Error loading data\test1.txt: 'txt' is not a valid FileType
+2025-08-23 23:58:54,425 - core.document_processor - ERROR - Error loading data\test2.txt: 'txt' is not a valid FileType
+2025-08-23 23:58:54,425 - core.document_processor - INFO - Loaded 0 documents
+2025-08-23 23:58:54,425 - core.document_processor - INFO - Created 0 chunks from 0 documents
+2025-08-24 00:00:56,157 - api.middleware - INFO - Request 1234177b-5493-411d-bc55-f9e30586db1b POST /api/v1/ingest completed in 0.00s with status 200
+2025-08-24 00:00:56,157 - core.rag_system - INFO - Starting ingestion of 2 documents
+2025-08-24 00:00:56,157 - core.document_processor - ERROR - Error loading data\test1.txt: 'txt' is not a valid FileType
+2025-08-24 00:00:56,157 - core.document_processor - ERROR - Error loading data\test2.txt: 'txt' is not a valid FileType
+2025-08-24 00:00:56,157 - core.document_processor - INFO - Loaded 0 documents
+2025-08-24 00:00:56,157 - core.document_processor - INFO - Created 0 chunks from 0 documents
+2025-08-24 00:01:19,557 - api.middleware - INFO - Request 395448e7-db94-4db2-9041-e3f612f05af3 POST /api/v1/ingest completed in 0.00s with status 200
+2025-08-24 00:01:19,557 - core.rag_system - INFO - Starting ingestion of 2 documents
+2025-08-24 00:01:19,557 - core.document_processor - ERROR - Error loading data\test1.txt: 'txt' is not a valid FileType
+2025-08-24 00:01:19,568 - core.document_processor - ERROR - Error loading data\test2.txt: 'txt' is not a valid FileType
+2025-08-24 00:01:19,568 - core.document_processor - INFO - Loaded 0 documents
+2025-08-24 00:01:19,568 - core.document_processor - INFO - Created 0 chunks from 0 documents
+2025-08-24 00:11:38,705 - core.document_processor - INFO - Document processor initialized
+2025-08-24 00:11:49,917 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 00:11:50,491 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 00:11:50,491 - core.query_processor - INFO - Query processor initialized
+2025-08-24 00:11:54,366 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 00:11:54,974 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 00:11:54,974 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 00:11:54,995 - api.middleware - INFO - Request 53b02db0-535f-4dbe-81a3-c70d796a34d4 POST /api/v1/ingest completed in 0.01s with status 200
+2025-08-24 00:11:54,995 - core.rag_system - INFO - Starting ingestion of 2 documents
+2025-08-24 00:11:54,995 - core.document_processor - ERROR - Error loading data\test1.txt: 'txt' is not a valid FileType
+2025-08-24 00:11:54,995 - core.document_processor - ERROR - Error loading data\test2.txt: 'txt' is not a valid FileType
+2025-08-24 00:11:54,995 - core.document_processor - INFO - Loaded 0 documents
+2025-08-24 00:11:54,995 - core.document_processor - INFO - Created 0 chunks from 0 documents
+2025-08-24 00:15:36,233 - api.middleware - INFO - Request df85c91c-0dfd-45f8-b5c5-9978ef003e8a POST /api/v1/ingest completed in 0.00s with status 200
+2025-08-24 00:15:36,233 - core.rag_system - INFO - Starting ingestion of 2 documents
+2025-08-24 00:15:36,237 - core.document_processor - WARNING - File data\test1.txt does not exist, skipping
+2025-08-24 00:15:36,237 - core.document_processor - WARNING - File data\test2.txt does not exist, skipping
+2025-08-24 00:15:36,237 - core.document_processor - INFO - Loaded 0 documents
+2025-08-24 00:15:36,239 - core.document_processor - INFO - Created 0 chunks from 0 documents
+2025-08-24 00:18:34,323 - core.document_processor - INFO - Document processor initialized
+2025-08-24 00:18:43,530 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 00:18:44,071 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 00:18:44,071 - core.query_processor - INFO - Query processor initialized
+2025-08-24 00:18:46,958 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 00:18:47,567 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 00:18:47,567 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 00:20:13,352 - api.middleware - INFO - Request 2e578b1e-23a4-4735-8e7c-19c0f52e15e2 POST /api/v1/ingest completed in 0.00s with status 200
+2025-08-24 00:20:13,355 - core.rag_system - INFO - Starting ingestion of 1 documents
+2025-08-24 00:20:13,857 - core.document_processor - INFO - Successfully loaded data\Biography-Allama-Iqbal.pdf
+2025-08-24 00:20:13,857 - core.document_processor - INFO - Loaded 1 documents
+2025-08-24 00:20:13,866 - core.document_processor - INFO - Created 26 chunks from 1 documents
+2025-08-24 00:22:27,544 - core.document_processor - INFO - Document processor initialized
+2025-08-24 00:22:38,874 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 00:22:39,465 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 00:22:39,466 - core.query_processor - INFO - Query processor initialized
+2025-08-24 00:22:43,302 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 00:22:43,925 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 00:22:43,925 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 00:22:46,323 - core.document_processor - INFO - Document processor initialized
+2025-08-24 00:22:57,169 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 00:22:57,712 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 00:22:57,712 - core.query_processor - INFO - Query processor initialized
+2025-08-24 00:23:02,428 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 00:23:03,093 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 00:23:03,093 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 00:23:25,579 - core.document_processor - INFO - Document processor initialized
+2025-08-24 00:23:34,660 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 00:23:35,237 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 00:23:35,237 - core.query_processor - INFO - Query processor initialized
+2025-08-24 00:23:38,568 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 00:23:39,163 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 00:23:39,163 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 00:24:03,472 - api.middleware - INFO - Request 8a0de56a-6ad2-4abb-ae45-a5eaff0f7a91 POST /api/v1/ingest completed in 0.00s with status 200
+2025-08-24 00:24:03,472 - core.rag_system - INFO - Starting ingestion of 1 documents
+2025-08-24 00:24:03,886 - core.document_processor - INFO - Successfully loaded data\Biography-Allama-Iqbal.pdf
+2025-08-24 00:24:03,886 - core.document_processor - INFO - Loaded 1 documents
+2025-08-24 00:24:03,894 - core.document_processor - INFO - Created 26 chunks from 1 documents
+2025-08-24 00:29:38,934 - core.document_processor - INFO - Document processor initialized
+2025-08-24 00:29:57,876 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 00:29:58,568 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 00:29:58,568 - core.query_processor - INFO - Query processor initialized
+2025-08-24 00:30:02,982 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 00:30:03,844 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 00:30:03,844 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 00:30:06,611 - core.document_processor - INFO - Document processor initialized
+2025-08-24 00:30:20,497 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 00:30:21,219 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 00:30:21,219 - core.query_processor - INFO - Query processor initialized
+2025-08-24 00:30:25,602 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 00:30:26,467 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 00:30:26,467 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 00:30:48,863 - core.document_processor - INFO - Document processor initialized
+2025-08-24 00:31:00,907 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 00:31:01,575 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 00:31:01,575 - core.query_processor - INFO - Query processor initialized
+2025-08-24 00:31:04,985 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 00:31:05,795 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 00:31:05,795 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 00:31:30,090 - api.middleware - INFO - Request 7a598963-eeac-4b2f-861d-e469381d6150 POST /api/v1/ingest completed in 0.00s with status 200
+2025-08-24 00:31:30,090 - core.rag_system - INFO - Starting ingestion of 1 documents
+2025-08-24 00:31:30,677 - core.document_processor - INFO - Successfully loaded data\Biography-Allama-Iqbal.pdf
+2025-08-24 00:31:30,677 - core.document_processor - INFO - Loaded 1 documents
+2025-08-24 00:31:30,692 - core.document_processor - INFO - Created 26 chunks from 1 documents
+2025-08-24 00:35:40,478 - core.document_processor - INFO - Document processor initialized
+2025-08-24 00:35:54,142 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 00:35:54,895 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 00:35:54,895 - core.query_processor - INFO - Query processor initialized
+2025-08-24 00:35:59,192 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 00:36:00,014 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 00:36:00,022 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 00:36:02,958 - core.document_processor - INFO - Document processor initialized
+2025-08-24 00:36:16,145 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 00:36:16,883 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 00:36:16,883 - core.query_processor - INFO - Query processor initialized
+2025-08-24 00:36:21,124 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 00:36:21,944 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 00:36:21,944 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 00:36:45,369 - core.document_processor - INFO - Document processor initialized
+2025-08-24 00:36:56,277 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 00:36:57,002 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 00:36:57,002 - core.query_processor - INFO - Query processor initialized
+2025-08-24 00:37:00,215 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 00:37:01,278 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 00:37:01,278 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 00:37:15,097 - api.middleware - INFO - Request e5bb860d-9ca7-44a5-b261-d847910f1874 POST /api/v1/ingest completed in 0.00s with status 200
+2025-08-24 00:37:15,097 - core.rag_system - INFO - Starting ingestion of 1 documents
+2025-08-24 00:37:15,699 - core.document_processor - INFO - Successfully loaded data\Biography-Allama-Iqbal.pdf
+2025-08-24 00:37:15,702 - core.document_processor - INFO - Loaded 1 documents
+2025-08-24 00:37:15,707 - core.document_processor - INFO - Created 26 chunks from 1 documents
+2025-08-24 00:44:08,955 - core.document_processor - INFO - Document processor initialized
+2025-08-24 00:44:24,249 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 00:44:24,950 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 00:44:24,950 - core.query_processor - INFO - Query processor initialized
+2025-08-24 00:44:29,965 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 00:44:30,782 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 00:44:30,782 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 00:44:48,535 - core.document_processor - INFO - Document processor initialized
+2025-08-24 00:45:29,211 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 00:45:29,998 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 00:45:29,998 - core.query_processor - INFO - Query processor initialized
+2025-08-24 00:45:35,755 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 00:45:36,540 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 00:45:36,540 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 00:46:27,901 - api.middleware - INFO - Request 24965cf4-3371-4be7-a9c9-add679c7bb71 POST /api/v1/ingest completed in 0.00s with status 200
+2025-08-24 00:46:27,903 - core.rag_system - INFO - Starting ingestion of 1 documents
+2025-08-24 00:46:28,512 - core.document_processor - INFO - Successfully loaded data\Biography-Allama-Iqbal.pdf
+2025-08-24 00:46:28,512 - core.document_processor - INFO - Loaded 1 documents
+2025-08-24 00:46:28,512 - core.document_processor - INFO - Created 26 chunks from 1 documents
+2025-08-24 01:46:34,741 - core.document_processor - INFO - Document processor initialized
+2025-08-24 01:46:47,448 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 01:46:48,221 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 01:46:48,221 - core.query_processor - INFO - Query processor initialized
+2025-08-24 01:46:51,808 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 01:46:52,669 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 01:46:52,669 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 01:47:07,386 - api.middleware - INFO - Request 6072a417-b717-48d6-8bf7-72f78ad87548 POST /api/v1/ingest completed in 0.00s with status 200
+2025-08-24 01:47:07,386 - core.rag_system - INFO - Starting ingestion of 1 documents
+2025-08-24 01:47:08,006 - core.document_processor - INFO - Successfully loaded data\Biography-Allama-Iqbal.pdf
+2025-08-24 01:47:08,006 - core.document_processor - INFO - Loaded 1 documents
+2025-08-24 01:47:08,016 - core.document_processor - INFO - Created 26 chunks from 1 documents
+2025-08-24 01:47:56,502 - core.document_processor - INFO - Document processor initialized
+2025-08-24 01:48:10,621 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 01:48:11,405 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 01:48:11,405 - core.query_processor - INFO - Query processor initialized
+2025-08-24 01:48:15,525 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 01:48:16,480 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 01:48:16,480 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 01:48:19,447 - core.document_processor - INFO - Document processor initialized
+2025-08-24 01:48:33,817 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 01:48:34,718 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 01:48:34,718 - core.query_processor - INFO - Query processor initialized
+2025-08-24 01:48:39,255 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 01:48:40,059 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 01:48:40,059 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 01:48:58,084 - core.document_processor - INFO - Document processor initialized
+2025-08-24 01:49:09,874 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 01:49:10,648 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 01:49:10,648 - core.query_processor - INFO - Query processor initialized
+2025-08-24 01:49:14,962 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 01:49:15,837 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 01:49:15,837 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 01:49:35,616 - api.middleware - INFO - Request a41bd131-f234-46a8-9b5e-40bb4d78e26e POST /api/v1/ingest completed in 0.00s with status 200
+2025-08-24 01:49:35,619 - core.rag_system - INFO - Starting ingestion of 1 documents
+2025-08-24 01:49:36,298 - core.document_processor - INFO - Successfully loaded data\Biography-Allama-Iqbal.pdf
+2025-08-24 01:49:36,298 - core.document_processor - INFO - Loaded 1 documents
+2025-08-24 01:49:36,306 - core.document_processor - INFO - Created 26 chunks from 1 documents
+2025-08-24 01:49:44,690 - core.vector_store - ERROR - Error storing metadata in database: 'generator' object has no attribute 'merge'
+2025-08-24 01:49:44,690 - core.vector_store - INFO - Added 26 vectors to store
+2025-08-24 01:49:44,690 - core.rag_system - INFO - Document ingestion completed
+2025-08-24 01:51:21,732 - api.middleware - INFO - Request 0795cb15-67d4-4300-9614-481479ae37bf POST /api/v1/query completed in 8.01s with status 500
+2025-08-24 01:54:57,819 - api.middleware - INFO - Request 682a00dd-9425-44df-a3e8-34d015a063b8 POST /api/v1/query completed in 8.00s with status 500
+2025-08-24 02:01:03,839 - api.middleware - INFO - Request a91c48fe-cdc8-4a84-9ec7-ba6b37594fbd POST /api/v1/query completed in 8.01s with status 500
+2025-08-24 02:07:08,219 - core.document_processor - INFO - Document processor initialized
+2025-08-24 02:07:18,561 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 02:07:19,291 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 02:07:19,291 - core.query_processor - INFO - Query processor initialized
+2025-08-24 02:07:22,442 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 02:07:23,281 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 02:07:23,281 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 02:07:23,297 - api.middleware - INFO - Request 8b8e6da2-ba89-4906-9ead-9a3ae1be02f6 POST /api/v1/query completed in 0.01s with status 500
+2025-08-24 02:08:08,843 - core.document_processor - INFO - Document processor initialized
+2025-08-24 02:08:22,079 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 02:08:22,749 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 02:08:22,749 - core.query_processor - INFO - Query processor initialized
+2025-08-24 02:08:26,176 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 02:08:26,937 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 02:08:26,939 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 02:09:02,285 - api.middleware - INFO - Request c86704a9-9aa7-4757-8497-db13eecace6b POST /api/v1/ingest completed in 0.00s with status 200
+2025-08-24 02:09:02,308 - core.rag_system - INFO - Starting ingestion of 1 documents
+2025-08-24 02:09:02,880 - core.document_processor - INFO - Successfully loaded data\Biography-Allama-Iqbal.pdf
+2025-08-24 02:09:02,880 - core.document_processor - INFO - Loaded 1 documents
+2025-08-24 02:09:02,891 - core.document_processor - INFO - Created 26 chunks from 1 documents
+2025-08-24 02:09:11,580 - core.vector_store - ERROR - Error storing metadata in database: 'generator' object has no attribute 'merge'
+2025-08-24 02:09:11,580 - core.vector_store - INFO - Added 26 vectors to store
+2025-08-24 02:09:11,580 - core.rag_system - INFO - Document ingestion completed
+2025-08-24 02:09:45,177 - api.middleware - INFO - Request c4d01771-31bc-451a-894e-990775bdcbcc POST /api/v1/query completed in 8.00s with status 500
+2025-08-24 02:11:34,325 - core.document_processor - INFO - Document processor initialized
+2025-08-24 02:11:43,895 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 02:11:44,609 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 02:11:44,613 - core.query_processor - INFO - Query processor initialized
+2025-08-24 02:11:47,658 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 02:11:48,504 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 02:11:48,507 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 02:15:16,493 - core.document_processor - INFO - Document processor initialized
+2025-08-24 02:15:25,622 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 02:15:26,344 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 02:15:26,344 - core.query_processor - INFO - Query processor initialized
+2025-08-24 02:15:29,388 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 02:15:30,254 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 02:15:30,254 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 02:15:34,808 - core.document_processor - INFO - Document processor initialized
+2025-08-24 02:15:44,121 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 02:15:44,861 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 02:15:44,861 - core.query_processor - INFO - Query processor initialized
+2025-08-24 02:15:48,046 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 02:15:49,006 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 02:15:49,006 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 02:16:04,522 - core.document_processor - INFO - Document processor initialized
+2025-08-24 02:16:13,303 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 02:16:13,985 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 02:16:13,985 - core.query_processor - INFO - Query processor initialized
+2025-08-24 02:16:16,922 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 02:16:17,713 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 02:16:17,713 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 02:17:10,494 - api.middleware - INFO - Request 70b41a6f-9db6-47d3-a319-eb33e6b33b27 POST /api/v1/ingest completed in 0.00s with status 200
+2025-08-24 02:17:10,494 - core.rag_system - INFO - Starting ingestion of 1 documents
+2025-08-24 02:17:11,093 - core.document_processor - INFO - Successfully loaded data\Biography-Allama-Iqbal.pdf
+2025-08-24 02:17:11,093 - core.document_processor - INFO - Loaded 1 documents
+2025-08-24 02:17:11,102 - core.document_processor - INFO - Created 26 chunks from 1 documents
+2025-08-24 02:17:19,517 - core.vector_store - ERROR - Error storing metadata in database: 'generator' object has no attribute 'merge'
+2025-08-24 02:17:19,517 - core.vector_store - INFO - Added 26 vectors to store
+2025-08-24 02:17:19,517 - core.rag_system - INFO - Document ingestion completed
+2025-08-24 02:17:37,552 - api.middleware - INFO - Request a091a81c-ce2b-464c-8870-c49db31449e6 POST /api/v1/query completed in 8.00s with status 500
+2025-08-24 02:21:57,550 - core.document_processor - INFO - Document processor initialized
+2025-08-24 02:22:08,661 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 02:22:10,655 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 02:22:10,655 - core.query_processor - INFO - Query processor initialized
+2025-08-24 02:22:13,999 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 02:22:16,414 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 02:22:16,416 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 02:23:34,862 - core.document_processor - INFO - Document processor initialized
+2025-08-24 02:23:43,647 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 02:23:44,379 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 02:23:44,379 - core.query_processor - INFO - Query processor initialized
+2025-08-24 02:23:47,732 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 02:23:48,605 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 02:23:48,605 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 02:24:00,880 - api.middleware - INFO - Request 6224d396-83de-4806-b074-a85f17e38bbd POST /api/v1/query completed in 0.01s with status 500
+2025-08-24 02:24:23,096 - api.middleware - INFO - Request 871b1655-106e-49ee-b8c4-4a0dd78bd6c4 POST /api/v1/ingest completed in 0.00s with status 200
+2025-08-24 02:24:23,096 - core.rag_system - INFO - Starting ingestion of 1 documents
+2025-08-24 02:24:23,689 - core.document_processor - INFO - Successfully loaded data\Biography-Allama-Iqbal.pdf
+2025-08-24 02:24:23,689 - core.document_processor - INFO - Loaded 1 documents
+2025-08-24 02:24:23,695 - core.document_processor - INFO - Created 26 chunks from 1 documents
+2025-08-24 02:24:31,907 - core.vector_store - INFO - Stored 26 chunks in database
+2025-08-24 02:24:31,907 - core.vector_store - INFO - Added 26 vectors to store
+2025-08-24 02:24:31,907 - core.rag_system - INFO - Document ingestion completed
+2025-08-24 02:25:07,554 - api.middleware - INFO - Request 4e301929-d493-4067-94d1-119535f0ef72 POST /api/v1/query completed in 8.00s with status 500
+2025-08-24 02:33:21,046 - core.document_processor - INFO - Document processor initialized
+2025-08-24 02:33:30,305 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 02:33:31,071 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 02:33:31,071 - core.query_processor - INFO - Query processor initialized
+2025-08-24 02:33:34,059 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 02:33:40,021 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 02:33:40,021 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 02:35:49,533 - core.document_processor - INFO - Document processor initialized
+2025-08-24 02:35:58,581 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 02:35:59,296 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 02:35:59,296 - core.query_processor - INFO - Query processor initialized
+2025-08-24 02:36:02,511 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 02:36:05,335 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 02:36:05,335 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 02:36:23,324 - core.document_processor - INFO - Document processor initialized
+2025-08-24 02:36:32,507 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 02:36:33,222 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 02:36:33,222 - core.query_processor - INFO - Query processor initialized
+2025-08-24 02:36:36,204 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 02:36:39,230 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 02:36:39,232 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 02:37:01,342 - api.middleware - INFO - Request 8ac45478-c133-4d1d-9ae6-8c67838d0fac POST /api/v1/ingest completed in 0.02s with status 200
+2025-08-24 02:37:01,347 - core.rag_system - INFO - Starting ingestion of 1 documents
+2025-08-24 02:37:01,748 - core.document_processor - INFO - Successfully loaded data\Biography-Allama-Iqbal.pdf
+2025-08-24 02:37:01,748 - core.document_processor - INFO - Loaded 1 documents
+2025-08-24 02:37:01,756 - core.document_processor - INFO - Created 26 chunks from 1 documents
+2025-08-24 02:37:09,937 - core.vector_store - ERROR - Error storing metadata in database: (sqlite3.IntegrityError) UNIQUE constraint failed: document_chunks.chunk_id
+[SQL: INSERT INTO document_chunks (chunk_id, text, source, file_type, file_hash, chunk_hash, chunk_length, meta_data, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP) RETURNING id, created_at, updated_at]
+[parameters: ('578ba00c450d9451dbde94bfa311d61c', 'IQBAL  by Mustansir Mir  \n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \n \n \nIntroduction  \n \nDr. Sir Allama M ... (2685 characters truncated) ... ialkot’s Scotch \nMission College, where Mir Hasan himself was a pro fessor of Arabic. From there, \nIqbal p assed his intermediate or F.A. in 1895 .', 'data\\Biography-Allama-Iqbal.pdf', 'pdf', '8c56f5bffca44c0ad315287eb5f1243b', '80611b0e841af67636a74414b1beb165', 501, '{"text": "IQBAL  by Mustansir Mir  \\n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \\n \\n \\nIntroduction  \\n \\n ... (3084 characters truncated) ... bal.pdf", "file_type": "pdf", "file_hash": "8c56f5bffca44c0ad315287eb5f1243b", "chunk_hash": "80611b0e841af67636a74414b1beb165", "chunk_length": 501}')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-08-24 02:37:09,937 - core.vector_store - INFO - Added 26 vectors to store
+2025-08-24 02:37:09,937 - core.rag_system - INFO - Document ingestion completed
+2025-08-24 02:37:23,956 - api.middleware - INFO - Request f3edf97c-b1de-4594-b1f6-97b24fbbfda8 POST /api/v1/query completed in 8.01s with status 500
+2025-08-24 02:41:24,988 - core.document_processor - INFO - Document processor initialized
+2025-08-24 02:41:34,388 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 02:41:35,210 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 02:41:35,210 - core.query_processor - INFO - Query processor initialized
+2025-08-24 02:41:39,422 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 02:41:42,116 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 02:41:42,116 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 02:42:40,392 - core.document_processor - INFO - Document processor initialized
+2025-08-24 02:42:50,331 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 02:42:51,164 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 02:42:51,164 - core.query_processor - INFO - Query processor initialized
+2025-08-24 02:42:54,599 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 02:42:58,009 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 02:42:58,009 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 02:43:30,252 - core.document_processor - INFO - Document processor initialized
+2025-08-24 02:43:39,710 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 02:43:40,380 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 02:43:40,380 - core.query_processor - INFO - Query processor initialized
+2025-08-24 02:43:43,211 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 02:43:48,490 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 02:43:48,490 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 02:44:12,058 - api.middleware - INFO - Request fcc24a5d-ab5b-4c3a-9440-c9ac31d3672e POST /api/v1/ingest completed in 0.02s with status 200
+2025-08-24 02:44:12,058 - core.rag_system - INFO - Starting ingestion of 1 documents
+2025-08-24 02:44:12,474 - core.document_processor - INFO - Successfully loaded data\Biography-Allama-Iqbal.pdf
+2025-08-24 02:44:12,474 - core.document_processor - INFO - Loaded 1 documents
+2025-08-24 02:44:12,484 - core.document_processor - INFO - Created 26 chunks from 1 documents
+2025-08-24 02:44:20,823 - core.vector_store - ERROR - Error storing metadata in database: (sqlite3.IntegrityError) UNIQUE constraint failed: document_chunks.chunk_id
+[SQL: INSERT INTO document_chunks (chunk_id, text, source, file_type, file_hash, chunk_hash, chunk_length, meta_data, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP) RETURNING id, created_at, updated_at]
+[parameters: ('578ba00c450d9451dbde94bfa311d61c', 'IQBAL  by Mustansir Mir  \n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \n \n \nIntroduction  \n \nDr. Sir Allama M ... (2685 characters truncated) ... ialkot’s Scotch \nMission College, where Mir Hasan himself was a pro fessor of Arabic. From there, \nIqbal p assed his intermediate or F.A. in 1895 .', 'data\\Biography-Allama-Iqbal.pdf', 'pdf', '8c56f5bffca44c0ad315287eb5f1243b', '80611b0e841af67636a74414b1beb165', 501, '{"text": "IQBAL  by Mustansir Mir  \\n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \\n \\n \\nIntroduction  \\n \\n ... (3084 characters truncated) ... bal.pdf", "file_type": "pdf", "file_hash": "8c56f5bffca44c0ad315287eb5f1243b", "chunk_hash": "80611b0e841af67636a74414b1beb165", "chunk_length": 501}')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-08-24 02:44:20,823 - core.vector_store - INFO - Added 26 vectors to store
+2025-08-24 02:44:20,831 - core.rag_system - INFO - Document ingestion completed
+2025-08-24 02:44:33,734 - api.middleware - INFO - Request b28ece61-46ef-4885-9b15-85d6df4519ab POST /api/v1/query completed in 8.02s with status 500
+2025-08-24 02:47:29,019 - core.document_processor - INFO - Document processor initialized
+2025-08-24 02:47:38,383 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 02:47:39,065 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 02:47:39,065 - core.query_processor - INFO - Query processor initialized
+2025-08-24 02:47:42,430 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 02:47:48,201 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 02:47:48,201 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 02:48:06,470 - api.middleware - INFO - Request a92439fc-1086-4e00-a4df-6212f16a6c72 POST /api/v1/ingest completed in 0.00s with status 200
+2025-08-24 02:48:06,477 - core.rag_system - INFO - Starting ingestion of 1 documents
+2025-08-24 02:48:06,969 - core.document_processor - INFO - Successfully loaded data\Biography-Allama-Iqbal.pdf
+2025-08-24 02:48:06,969 - core.document_processor - INFO - Loaded 1 documents
+2025-08-24 02:48:06,982 - core.document_processor - INFO - Created 26 chunks from 1 documents
+2025-08-24 02:48:15,288 - core.vector_store - ERROR - Error storing metadata in database: (sqlite3.IntegrityError) UNIQUE constraint failed: document_chunks.chunk_id
+[SQL: INSERT INTO document_chunks (chunk_id, text, source, file_type, file_hash, chunk_hash, chunk_length, meta_data, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP) RETURNING id, created_at, updated_at]
+[parameters: ('578ba00c450d9451dbde94bfa311d61c', 'IQBAL  by Mustansir Mir  \n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \n \n \nIntroduction  \n \nDr. Sir Allama M ... (2685 characters truncated) ... ialkot’s Scotch \nMission College, where Mir Hasan himself was a pro fessor of Arabic. From there, \nIqbal p assed his intermediate or F.A. in 1895 .', 'data\\Biography-Allama-Iqbal.pdf', 'pdf', '8c56f5bffca44c0ad315287eb5f1243b', '80611b0e841af67636a74414b1beb165', 501, '{"text": "IQBAL  by Mustansir Mir  \\n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \\n \\n \\nIntroduction  \\n \\n ... (3084 characters truncated) ... bal.pdf", "file_type": "pdf", "file_hash": "8c56f5bffca44c0ad315287eb5f1243b", "chunk_hash": "80611b0e841af67636a74414b1beb165", "chunk_length": 501}')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-08-24 02:48:15,288 - core.vector_store - INFO - Added 26 vectors to store
+2025-08-24 02:48:15,288 - core.rag_system - INFO - Document ingestion completed
+2025-08-24 02:48:24,608 - api.middleware - INFO - Request 24098728-b4fb-4281-acd7-276876b30c0c POST /api/v1/query completed in 8.01s with status 500
+2025-08-24 02:51:32,990 - core.document_processor - INFO - Document processor initialized
+2025-08-24 02:51:43,035 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 02:51:43,740 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 02:51:43,740 - core.query_processor - INFO - Query processor initialized
+2025-08-24 02:51:46,956 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 02:51:52,682 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 02:51:52,687 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 02:55:29,554 - core.document_processor - INFO - Document processor initialized
+2025-08-24 02:55:40,172 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 02:55:40,974 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 02:55:40,974 - core.query_processor - INFO - Query processor initialized
+2025-08-24 02:55:43,906 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 02:55:46,635 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 02:55:46,635 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 02:56:08,473 - core.document_processor - INFO - Document processor initialized
+2025-08-24 02:56:17,283 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 02:56:18,211 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 02:56:18,211 - core.query_processor - INFO - Query processor initialized
+2025-08-24 02:56:21,123 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 02:56:24,078 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 02:56:24,080 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 02:56:51,595 - api.middleware - INFO - Request 54e69142-1d17-4b4d-b1e5-985ab111ee67 POST /api/v1/ingest completed in 0.00s with status 200
+2025-08-24 02:56:51,595 - core.rag_system - INFO - Starting ingestion of 1 documents
+2025-08-24 02:56:52,012 - core.document_processor - INFO - Successfully loaded data\Biography-Allama-Iqbal.pdf
+2025-08-24 02:56:52,012 - core.document_processor - INFO - Loaded 1 documents
+2025-08-24 02:56:52,018 - core.document_processor - INFO - Created 26 chunks from 1 documents
+2025-08-24 02:57:00,217 - core.vector_store - ERROR - Error storing metadata in database: (sqlite3.IntegrityError) UNIQUE constraint failed: document_chunks.chunk_id
+[SQL: INSERT INTO document_chunks (chunk_id, text, source, file_type, file_hash, chunk_hash, chunk_length, meta_data, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP) RETURNING id, created_at, updated_at]
+[parameters: ('578ba00c450d9451dbde94bfa311d61c', 'IQBAL  by Mustansir Mir  \n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \n \n \nIntroduction  \n \nDr. Sir Allama M ... (2685 characters truncated) ... ialkot’s Scotch \nMission College, where Mir Hasan himself was a pro fessor of Arabic. From there, \nIqbal p assed his intermediate or F.A. in 1895 .', 'data\\Biography-Allama-Iqbal.pdf', 'pdf', '8c56f5bffca44c0ad315287eb5f1243b', '80611b0e841af67636a74414b1beb165', 501, '{"text": "IQBAL  by Mustansir Mir  \\n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \\n \\n \\nIntroduction  \\n \\n ... (3084 characters truncated) ... bal.pdf", "file_type": "pdf", "file_hash": "8c56f5bffca44c0ad315287eb5f1243b", "chunk_hash": "80611b0e841af67636a74414b1beb165", "chunk_length": 501}')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-08-24 02:57:00,217 - core.vector_store - INFO - Added 26 vectors to store
+2025-08-24 02:57:00,217 - core.rag_system - INFO - Document ingestion completed
+2025-08-24 03:02:53,083 - core.document_processor - INFO - Document processor initialized
+2025-08-24 03:03:02,644 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 03:03:03,345 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 03:03:03,345 - core.query_processor - INFO - Query processor initialized
+2025-08-24 03:03:06,558 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 03:03:12,158 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 03:03:12,158 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 03:03:45,730 - core.document_processor - INFO - Document processor initialized
+2025-08-24 03:03:54,792 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 03:03:55,552 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 03:03:55,552 - core.query_processor - INFO - Query processor initialized
+2025-08-24 03:03:58,698 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 03:04:01,866 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 03:04:01,866 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 03:04:19,969 - core.document_processor - INFO - Document processor initialized
+2025-08-24 03:04:29,592 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 03:04:30,316 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 03:04:30,316 - core.query_processor - INFO - Query processor initialized
+2025-08-24 03:04:33,222 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 03:04:36,356 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 03:04:36,356 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 03:04:58,281 - api.middleware - INFO - Request 1d466f3a-2b02-4944-b87b-fc6526d63e61 POST /api/v1/ingest completed in 0.01s with status 500
+2025-08-24 03:06:12,313 - core.document_processor - INFO - Document processor initialized
+2025-08-24 03:06:22,523 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 03:06:23,255 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 03:06:23,255 - core.query_processor - INFO - Query processor initialized
+2025-08-24 03:06:26,997 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 03:06:29,953 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 03:06:29,953 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 03:06:29,976 - api.middleware - INFO - Request 547fa4fc-650a-4840-b3cf-929e5da0f507 POST /api/v1/ingest completed in 0.01s with status 200
+2025-08-24 03:06:29,977 - core.rag_system - INFO - Starting ingestion of 1 documents
+2025-08-24 03:06:30,386 - core.document_processor - INFO - Successfully loaded data\Biography-Allama-Iqbal.pdf
+2025-08-24 03:06:30,386 - core.document_processor - INFO - Loaded 1 documents
+2025-08-24 03:06:30,396 - core.document_processor - INFO - Created 26 chunks from 1 documents
+2025-08-24 03:06:38,503 - core.vector_store - ERROR - Error storing metadata in database: (sqlite3.IntegrityError) UNIQUE constraint failed: document_chunks.chunk_id
+[SQL: INSERT INTO document_chunks (chunk_id, text, source, file_type, file_hash, chunk_hash, chunk_length, meta_data, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP) RETURNING id, created_at, updated_at]
+[parameters: ('578ba00c450d9451dbde94bfa311d61c', 'IQBAL  by Mustansir Mir  \n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \n \n \nIntroduction  \n \nDr. Sir Allama M ... (2685 characters truncated) ... ialkot’s Scotch \nMission College, where Mir Hasan himself was a pro fessor of Arabic. From there, \nIqbal p assed his intermediate or F.A. in 1895 .', 'data\\Biography-Allama-Iqbal.pdf', 'pdf', '8c56f5bffca44c0ad315287eb5f1243b', '80611b0e841af67636a74414b1beb165', 501, '{"text": "IQBAL  by Mustansir Mir  \\n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \\n \\n \\nIntroduction  \\n \\n ... (3084 characters truncated) ... bal.pdf", "file_type": "pdf", "file_hash": "8c56f5bffca44c0ad315287eb5f1243b", "chunk_hash": "80611b0e841af67636a74414b1beb165", "chunk_length": 501}')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-08-24 03:06:38,503 - core.vector_store - INFO - Added 26 vectors to store
+2025-08-24 03:06:38,503 - core.rag_system - INFO - Document ingestion completed
+2025-08-24 03:06:53,484 - core.query_processor - INFO - Query transformed into 1 variations: ['Which place the allama iqbal is born?']
+2025-08-24 03:06:53,486 - api.middleware - INFO - Request 91298ee1-103a-4682-9f7c-253b16b1d423 POST /api/v1/query completed in 0.00s with status 500
+2025-08-24 03:10:08,818 - core.document_processor - INFO - Document processor initialized
+2025-08-24 03:10:18,186 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 03:10:18,876 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 03:10:18,876 - core.query_processor - INFO - Query processor initialized
+2025-08-24 03:10:21,924 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 03:10:24,595 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 03:10:24,595 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 03:10:44,288 - core.document_processor - INFO - Document processor initialized
+2025-08-24 03:10:53,447 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 03:10:54,189 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 03:10:54,189 - core.query_processor - INFO - Query processor initialized
+2025-08-24 03:10:57,110 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 03:10:59,735 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 03:10:59,735 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 03:11:16,615 - api.middleware - INFO - Request 22bb3616-39de-4038-b31a-eef8e37910d2 POST /api/v1/ingest completed in 0.01s with status 200
+2025-08-24 03:11:16,616 - core.rag_system - INFO - Starting ingestion of 1 documents
+2025-08-24 03:11:17,044 - core.document_processor - INFO - Successfully loaded data\Biography-Allama-Iqbal.pdf
+2025-08-24 03:11:17,046 - core.document_processor - INFO - Loaded 1 documents
+2025-08-24 03:11:17,053 - core.document_processor - INFO - Created 26 chunks from 1 documents
+2025-08-24 03:11:25,260 - core.vector_store - ERROR - Error storing metadata in database: (sqlite3.IntegrityError) UNIQUE constraint failed: document_chunks.chunk_id
+[SQL: INSERT INTO document_chunks (chunk_id, text, source, file_type, file_hash, chunk_hash, chunk_length, meta_data, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP) RETURNING id, created_at, updated_at]
+[parameters: ('578ba00c450d9451dbde94bfa311d61c', 'IQBAL  by Mustansir Mir  \n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \n \n \nIntroduction  \n \nDr. Sir Allama M ... (2685 characters truncated) ... ialkot’s Scotch \nMission College, where Mir Hasan himself was a pro fessor of Arabic. From there, \nIqbal p assed his intermediate or F.A. in 1895 .', 'data\\Biography-Allama-Iqbal.pdf', 'pdf', '8c56f5bffca44c0ad315287eb5f1243b', '80611b0e841af67636a74414b1beb165', 501, '{"text": "IQBAL  by Mustansir Mir  \\n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \\n \\n \\nIntroduction  \\n \\n ... (3084 characters truncated) ... bal.pdf", "file_type": "pdf", "file_hash": "8c56f5bffca44c0ad315287eb5f1243b", "chunk_hash": "80611b0e841af67636a74414b1beb165", "chunk_length": 501}')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-08-24 03:11:25,260 - core.vector_store - INFO - Added 26 vectors to store
+2025-08-24 03:11:25,260 - core.rag_system - INFO - Document ingestion completed
+2025-08-24 03:11:32,823 - core.query_processor - INFO - Query transformed into 1 variations: ['Which place the allama iqbal is born?']
+2025-08-24 03:11:32,823 - api.middleware - INFO - Request 1e699384-8551-4528-a2b0-2cc931f3fca1 POST /api/v1/query completed in 0.00s with status 500
+2025-08-24 03:12:25,633 - core.document_processor - INFO - Document processor initialized
+2025-08-24 03:12:35,766 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 03:12:36,520 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 03:12:36,520 - core.query_processor - INFO - Query processor initialized
+2025-08-24 03:12:39,524 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 03:12:42,192 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 03:12:42,192 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 03:21:31,541 - core.document_processor - INFO - Document processor initialized
+2025-08-24 03:21:41,789 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 03:21:42,687 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 03:21:42,687 - core.query_processor - INFO - Query processor initialized
+2025-08-24 03:21:45,824 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 03:21:52,073 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 03:21:52,073 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 03:22:09,691 - core.document_processor - INFO - Document processor initialized
+2025-08-24 03:22:20,474 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 03:22:21,163 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 03:22:21,163 - core.query_processor - INFO - Query processor initialized
+2025-08-24 03:22:24,526 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 03:22:27,640 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 03:22:27,640 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 03:22:45,076 - api.middleware - INFO - Request efa9d86b-800a-4449-a72e-d6cbd91a17d8 POST /api/v1/ingest completed in 0.02s with status 200
+2025-08-24 03:22:45,078 - core.rag_system - INFO - Starting ingestion of 1 documents
+2025-08-24 03:22:45,494 - core.document_processor - INFO - Successfully loaded data\Biography-Allama-Iqbal.pdf
+2025-08-24 03:22:45,494 - core.document_processor - INFO - Loaded 1 documents
+2025-08-24 03:22:45,510 - core.document_processor - INFO - Created 26 chunks from 1 documents
+2025-08-24 03:22:54,197 - core.vector_store - ERROR - Error storing metadata in database: (sqlite3.IntegrityError) UNIQUE constraint failed: document_chunks.chunk_id
+[SQL: INSERT INTO document_chunks (chunk_id, text, source, file_type, file_hash, chunk_hash, chunk_length, meta_data, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP) RETURNING id, created_at, updated_at]
+[parameters: ('578ba00c450d9451dbde94bfa311d61c', 'IQBAL  by Mustansir Mir  \n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \n \n \nIntroduction  \n \nDr. Sir Allama M ... (2685 characters truncated) ... ialkot’s Scotch \nMission College, where Mir Hasan himself was a pro fessor of Arabic. From there, \nIqbal p assed his intermediate or F.A. in 1895 .', 'data\\Biography-Allama-Iqbal.pdf', 'pdf', '8c56f5bffca44c0ad315287eb5f1243b', '80611b0e841af67636a74414b1beb165', 501, '{"text": "IQBAL  by Mustansir Mir  \\n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \\n \\n \\nIntroduction  \\n \\n ... (3084 characters truncated) ... bal.pdf", "file_type": "pdf", "file_hash": "8c56f5bffca44c0ad315287eb5f1243b", "chunk_hash": "80611b0e841af67636a74414b1beb165", "chunk_length": 501}')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-08-24 03:22:54,197 - core.vector_store - INFO - Added 26 vectors to store
+2025-08-24 03:22:54,197 - core.rag_system - INFO - Document ingestion completed
+2025-08-24 03:22:57,722 - core.query_processor - INFO - Query transformed into 1 variations: ['Which place the allama iqbal is born?']
+2025-08-24 03:22:57,722 - api.middleware - INFO - Request 10ebcb8a-dd4d-4ad8-ab87-1cbaf8a14369 POST /api/v1/query completed in 0.00s with status 500
+2025-08-24 13:14:10,581 - core.document_processor - INFO - Document processor initialized
+2025-08-24 13:14:50,602 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 13:14:52,005 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 13:14:52,005 - core.query_processor - INFO - Query processor initialized
+2025-08-24 13:14:56,415 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 13:15:01,597 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 13:15:01,597 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 13:19:44,720 - api.middleware - INFO - Request 70597e44-e1eb-4e42-9c9c-95af1f0d9410 POST /api/v1/ingest completed in 0.00s with status 200
+2025-08-24 13:19:44,720 - core.rag_system - INFO - Starting ingestion of 1 documents
+2025-08-24 13:19:45,056 - core.document_processor - INFO - Successfully loaded data\Biography-Allama-Iqbal.pdf
+2025-08-24 13:19:45,056 - core.document_processor - INFO - Loaded 1 documents
+2025-08-24 13:19:45,062 - core.document_processor - INFO - Created 26 chunks from 1 documents
+2025-08-24 13:19:53,384 - core.vector_store - ERROR - Error storing metadata in database: (sqlite3.IntegrityError) UNIQUE constraint failed: document_chunks.chunk_id
+[SQL: INSERT INTO document_chunks (chunk_id, text, source, file_type, file_hash, chunk_hash, chunk_length, meta_data, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP) RETURNING id, created_at, updated_at]
+[parameters: ('578ba00c450d9451dbde94bfa311d61c', 'IQBAL  by Mustansir Mir  \n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \n \n \nIntroduction  \n \nDr. Sir Allama M ... (2685 characters truncated) ... ialkot’s Scotch \nMission College, where Mir Hasan himself was a pro fessor of Arabic. From there, \nIqbal p assed his intermediate or F.A. in 1895 .', 'data\\Biography-Allama-Iqbal.pdf', 'pdf', '8c56f5bffca44c0ad315287eb5f1243b', '80611b0e841af67636a74414b1beb165', 501, '{"text": "IQBAL  by Mustansir Mir  \\n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \\n \\n \\nIntroduction  \\n \\n ... (3084 characters truncated) ... bal.pdf", "file_type": "pdf", "file_hash": "8c56f5bffca44c0ad315287eb5f1243b", "chunk_hash": "80611b0e841af67636a74414b1beb165", "chunk_length": 501}')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-08-24 13:19:53,384 - core.vector_store - INFO - Added 26 vectors to store
+2025-08-24 13:19:53,384 - core.rag_system - INFO - Document ingestion completed
+2025-08-24 13:20:04,512 - core.query_processor - INFO - Query transformed into 1 variations: ['Which place the allama iqbal is born?']
+2025-08-24 13:20:04,512 - api.middleware - INFO - Request 89ae5219-5692-4cda-8912-8dd106ca14c8 POST /api/v1/query completed in 0.00s with status 500
+2025-08-24 13:23:01,596 - core.document_processor - INFO - Document processor initialized
+2025-08-24 13:23:09,368 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 13:23:09,910 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 13:23:09,910 - core.query_processor - INFO - Query processor initialized
+2025-08-24 13:23:13,533 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 13:23:16,184 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 13:23:16,191 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 13:23:19,758 - core.document_processor - INFO - Document processor initialized
+2025-08-24 13:23:27,806 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 13:23:28,317 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 13:23:28,317 - core.query_processor - INFO - Query processor initialized
+2025-08-24 13:23:31,989 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 13:23:34,544 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 13:23:34,544 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 13:24:19,871 - core.document_processor - INFO - Document processor initialized
+2025-08-24 13:24:28,700 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 13:24:29,265 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 13:24:29,265 - core.query_processor - INFO - Query processor initialized
+2025-08-24 13:24:33,901 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 13:24:35,857 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 13:24:35,857 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 13:25:02,666 - api.middleware - INFO - Request d26309f4-6aa3-43b6-9bb6-7f45e7af8a55 POST /api/v1/ingest completed in 0.01s with status 200
+2025-08-24 13:25:02,666 - core.rag_system - INFO - Starting ingestion of 1 documents
+2025-08-24 13:25:02,975 - core.document_processor - INFO - Successfully loaded data\Biography-Allama-Iqbal.pdf
+2025-08-24 13:25:02,975 - core.document_processor - INFO - Loaded 1 documents
+2025-08-24 13:25:02,990 - core.document_processor - INFO - Created 26 chunks from 1 documents
+2025-08-24 13:25:10,349 - core.vector_store - ERROR - Error storing metadata in database: (sqlite3.IntegrityError) UNIQUE constraint failed: document_chunks.chunk_id
+[SQL: INSERT INTO document_chunks (chunk_id, text, source, file_type, file_hash, chunk_hash, chunk_length, meta_data, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP) RETURNING id, created_at, updated_at]
+[parameters: ('578ba00c450d9451dbde94bfa311d61c', 'IQBAL  by Mustansir Mir  \n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \n \n \nIntroduction  \n \nDr. Sir Allama M ... (2685 characters truncated) ... ialkot’s Scotch \nMission College, where Mir Hasan himself was a pro fessor of Arabic. From there, \nIqbal p assed his intermediate or F.A. in 1895 .', 'data\\Biography-Allama-Iqbal.pdf', 'pdf', '8c56f5bffca44c0ad315287eb5f1243b', '80611b0e841af67636a74414b1beb165', 501, '{"text": "IQBAL  by Mustansir Mir  \\n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \\n \\n \\nIntroduction  \\n \\n ... (3084 characters truncated) ... bal.pdf", "file_type": "pdf", "file_hash": "8c56f5bffca44c0ad315287eb5f1243b", "chunk_hash": "80611b0e841af67636a74414b1beb165", "chunk_length": 501}')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-08-24 13:25:10,350 - core.vector_store - INFO - Added 26 vectors to store
+2025-08-24 13:25:10,350 - core.rag_system - INFO - Document ingestion completed
+2025-08-24 13:25:16,104 - core.query_processor - INFO - Query transformed into 1 variations: ['Which place the allama iqbal is born?']
+2025-08-24 13:25:16,105 - api.middleware - ERROR - Request 45d55de3-a72c-40d7-8960-77acab379fb3 POST /api/v1/query failed after 0.00s: cannot access local variable 'response' where it is not associated with a value
+2025-08-24 13:29:44,485 - core.document_processor - INFO - Document processor initialized
+2025-08-24 13:29:53,672 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 13:29:54,218 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 13:29:54,218 - core.query_processor - INFO - Query processor initialized
+2025-08-24 13:29:57,607 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 13:30:02,922 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 13:30:02,922 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 13:30:06,403 - core.document_processor - INFO - Document processor initialized
+2025-08-24 13:30:14,740 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 13:30:15,273 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 13:30:15,273 - core.query_processor - INFO - Query processor initialized
+2025-08-24 13:30:18,324 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 13:30:20,659 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 13:30:20,659 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 13:30:33,314 - core.document_processor - INFO - Document processor initialized
+2025-08-24 13:30:41,550 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 13:30:42,067 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 13:30:42,067 - core.query_processor - INFO - Query processor initialized
+2025-08-24 13:30:45,375 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 13:30:47,591 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 13:30:47,591 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 13:31:07,768 - api.middleware - INFO - Request 2dd3e01c-4543-4371-a9b3-4fd770bc5129 POST /api/v1/ingest completed in 0.02s with status 200
+2025-08-24 13:31:07,768 - core.rag_system - INFO - Starting ingestion of 1 documents
+2025-08-24 13:31:08,043 - core.document_processor - INFO - Successfully loaded data\Biography-Allama-Iqbal.pdf
+2025-08-24 13:31:08,043 - core.document_processor - INFO - Loaded 1 documents
+2025-08-24 13:31:08,043 - core.document_processor - INFO - Created 26 chunks from 1 documents
+2025-08-24 13:31:15,188 - core.vector_store - ERROR - Error storing metadata in database: (sqlite3.IntegrityError) UNIQUE constraint failed: document_chunks.chunk_id
+[SQL: INSERT INTO document_chunks (chunk_id, text, source, file_type, file_hash, chunk_hash, chunk_length, meta_data, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP) RETURNING id, created_at, updated_at]
+[parameters: ('578ba00c450d9451dbde94bfa311d61c', 'IQBAL  by Mustansir Mir  \n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \n \n \nIntroduction  \n \nDr. Sir Allama M ... (2685 characters truncated) ... ialkot’s Scotch \nMission College, where Mir Hasan himself was a pro fessor of Arabic. From there, \nIqbal p assed his intermediate or F.A. in 1895 .', 'data\\Biography-Allama-Iqbal.pdf', 'pdf', '8c56f5bffca44c0ad315287eb5f1243b', '80611b0e841af67636a74414b1beb165', 501, '{"text": "IQBAL  by Mustansir Mir  \\n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \\n \\n \\nIntroduction  \\n \\n ... (3084 characters truncated) ... bal.pdf", "file_type": "pdf", "file_hash": "8c56f5bffca44c0ad315287eb5f1243b", "chunk_hash": "80611b0e841af67636a74414b1beb165", "chunk_length": 501}')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-08-24 13:31:15,188 - core.vector_store - INFO - Added 26 vectors to store
+2025-08-24 13:31:15,188 - core.rag_system - INFO - Document ingestion completed
+2025-08-24 13:31:18,407 - core.query_processor - INFO - Query transformed into 1 variations: ['Which place the allama iqbal is born?']
+2025-08-24 13:31:18,412 - api.middleware - INFO - Request ae0c8a02-7f7f-434f-a1da-3b656443d54e POST /api/v1/query completed in 0.01s with status 200
+2025-08-24 13:38:50,255 - core.document_processor - INFO - Document processor initialized
+2025-08-24 13:38:58,075 - core.document_processor - INFO - Document processor initialized
+2025-08-24 13:39:07,462 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 13:39:08,369 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 13:39:08,369 - core.query_processor - INFO - Query processor initialized
+2025-08-24 13:39:12,123 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 13:39:15,500 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 13:39:15,501 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 13:39:34,283 - core.document_processor - INFO - Document processor initialized
+2025-08-24 13:39:44,986 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 13:39:45,917 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 13:39:45,917 - core.query_processor - INFO - Query processor initialized
+2025-08-24 13:39:49,635 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 13:39:52,178 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 13:39:52,178 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 13:40:24,792 - api.middleware - INFO - Request 3353184f-d80c-45e1-9db7-609a7a19476b POST /api/v1/ingest completed in 0.00s with status 200
+2025-08-24 13:40:24,794 - core.rag_system - INFO - Starting ingestion of 1 documents
+2025-08-24 13:40:25,106 - core.document_processor - INFO - Successfully loaded data\Biography-Allama-Iqbal.pdf
+2025-08-24 13:40:25,107 - core.document_processor - INFO - Loaded 1 documents
+2025-08-24 13:40:25,112 - core.document_processor - INFO - Created 26 chunks from 1 documents
+2025-08-24 13:40:32,596 - core.vector_store - ERROR - Error storing metadata in database: (sqlite3.IntegrityError) UNIQUE constraint failed: document_chunks.chunk_id
+[SQL: INSERT INTO document_chunks (chunk_id, text, source, file_type, file_hash, chunk_hash, chunk_length, meta_data, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP) RETURNING id, created_at, updated_at]
+[parameters: ('578ba00c450d9451dbde94bfa311d61c', 'IQBAL  by Mustansir Mir  \n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \n \n \nIntroduction  \n \nDr. Sir Allama M ... (2685 characters truncated) ... ialkot’s Scotch \nMission College, where Mir Hasan himself was a pro fessor of Arabic. From there, \nIqbal p assed his intermediate or F.A. in 1895 .', 'data\\Biography-Allama-Iqbal.pdf', 'pdf', '8c56f5bffca44c0ad315287eb5f1243b', '80611b0e841af67636a74414b1beb165', 501, '{"text": "IQBAL  by Mustansir Mir  \\n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \\n \\n \\nIntroduction  \\n \\n ... (3084 characters truncated) ... bal.pdf", "file_type": "pdf", "file_hash": "8c56f5bffca44c0ad315287eb5f1243b", "chunk_hash": "80611b0e841af67636a74414b1beb165", "chunk_length": 501}')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-08-24 13:40:32,597 - core.vector_store - INFO - Added 26 vectors to store
+2025-08-24 13:40:32,597 - core.rag_system - INFO - Document ingestion completed
+2025-08-24 13:40:38,676 - core.query_processor - INFO - Query transformed into 1 variations: ['Which place the allama iqbal is born?']
+2025-08-24 13:40:38,677 - core.query_processor - INFO - Query routed to dense retrieval: Which place the allama iqbal is born?
+2025-08-24 13:40:38,805 - api.middleware - INFO - Request 36c44c49-dfb6-4f8f-b40c-225fd7df7fbe POST /api/v1/query completed in 0.13s with status 200
+2025-08-24 13:45:04,843 - core.document_processor - INFO - Document processor initialized
+2025-08-24 13:45:12,309 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 13:45:12,884 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 13:45:12,885 - core.query_processor - INFO - Query processor initialized
+2025-08-24 13:45:16,550 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 13:45:19,320 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 13:45:19,322 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 13:45:22,918 - core.document_processor - INFO - Document processor initialized
+2025-08-24 13:45:31,862 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 13:45:32,745 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 13:45:32,747 - core.query_processor - INFO - Query processor initialized
+2025-08-24 13:45:36,083 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 13:45:38,775 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 13:45:38,777 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 13:46:02,600 - core.document_processor - INFO - Document processor initialized
+2025-08-24 13:46:11,141 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 13:46:11,721 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 13:46:11,722 - core.query_processor - INFO - Query processor initialized
+2025-08-24 13:46:14,574 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 13:46:17,029 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 13:46:17,030 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 13:46:36,215 - api.middleware - INFO - Request 01997742-c0d1-483a-b247-e910a3adaebd POST /api/v1/ingest completed in 0.00s with status 200
+2025-08-24 13:46:36,218 - core.rag_system - INFO - Starting ingestion of 1 documents
+2025-08-24 13:46:36,502 - core.document_processor - INFO - Successfully loaded data\Biography-Allama-Iqbal.pdf
+2025-08-24 13:46:36,502 - core.document_processor - INFO - Loaded 1 documents
+2025-08-24 13:46:36,509 - core.document_processor - INFO - Created 26 chunks from 1 documents
+2025-08-24 13:46:44,190 - core.vector_store - ERROR - Error storing metadata in database: (sqlite3.IntegrityError) UNIQUE constraint failed: document_chunks.chunk_id
+[SQL: INSERT INTO document_chunks (chunk_id, text, source, file_type, file_hash, chunk_hash, chunk_length, meta_data, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP) RETURNING id, created_at, updated_at]
+[parameters: ('578ba00c450d9451dbde94bfa311d61c', 'IQBAL  by Mustansir Mir  \n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \n \n \nIntroduction  \n \nDr. Sir Allama M ... (2685 characters truncated) ... ialkot’s Scotch \nMission College, where Mir Hasan himself was a pro fessor of Arabic. From there, \nIqbal p assed his intermediate or F.A. in 1895 .', 'data\\Biography-Allama-Iqbal.pdf', 'pdf', '8c56f5bffca44c0ad315287eb5f1243b', '80611b0e841af67636a74414b1beb165', 501, '{"text": "IQBAL  by Mustansir Mir  \\n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \\n \\n \\nIntroduction  \\n \\n ... (3084 characters truncated) ... bal.pdf", "file_type": "pdf", "file_hash": "8c56f5bffca44c0ad315287eb5f1243b", "chunk_hash": "80611b0e841af67636a74414b1beb165", "chunk_length": 501}')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-08-24 13:46:44,191 - core.vector_store - INFO - Added 26 vectors to store
+2025-08-24 13:46:44,191 - core.rag_system - INFO - Document ingestion completed
+2025-08-24 13:46:48,767 - core.query_processor - INFO - Query transformed into 1 variations: ['Which place the allama iqbal is born?']
+2025-08-24 13:46:48,768 - core.query_processor - INFO - Query routed to dense retrieval: Which place the allama iqbal is born?
+2025-08-24 13:46:48,879 - api.middleware - INFO - Request 18091755-39ce-46f9-949c-a7db77774e32 POST /api/v1/query completed in 0.11s with status 200
+2025-08-24 13:49:41,566 - core.document_processor - INFO - Document processor initialized
+2025-08-24 13:49:49,810 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 13:49:50,362 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 13:49:50,363 - core.query_processor - INFO - Query processor initialized
+2025-08-24 13:49:53,300 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 13:49:55,400 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 13:49:55,401 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 13:49:59,271 - core.document_processor - INFO - Document processor initialized
+2025-08-24 13:50:07,489 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 13:50:08,073 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 13:50:08,074 - core.query_processor - INFO - Query processor initialized
+2025-08-24 13:50:11,081 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 13:50:16,419 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 13:50:16,420 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 13:50:28,066 - core.document_processor - INFO - Document processor initialized
+2025-08-24 13:50:35,818 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 13:50:36,394 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 13:50:36,394 - core.query_processor - INFO - Query processor initialized
+2025-08-24 13:50:39,344 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 13:50:41,635 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 13:50:41,635 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 13:50:58,255 - api.middleware - INFO - Request 9abc6e40-5567-4321-b137-f157b60a66c8 POST /api/v1/ingest completed in 0.00s with status 200
+2025-08-24 13:50:58,257 - core.rag_system - INFO - Starting ingestion of 1 documents
+2025-08-24 13:50:58,546 - core.document_processor - INFO - Successfully loaded data\Biography-Allama-Iqbal.pdf
+2025-08-24 13:50:58,547 - core.document_processor - INFO - Loaded 1 documents
+2025-08-24 13:50:58,552 - core.document_processor - INFO - Created 26 chunks from 1 documents
+2025-08-24 13:51:05,933 - core.vector_store - ERROR - Error storing metadata in database: (sqlite3.IntegrityError) UNIQUE constraint failed: document_chunks.chunk_id
+[SQL: INSERT INTO document_chunks (chunk_id, text, source, file_type, file_hash, chunk_hash, chunk_length, meta_data, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP) RETURNING id, created_at, updated_at]
+[parameters: ('578ba00c450d9451dbde94bfa311d61c', 'IQBAL  by Mustansir Mir  \n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \n \n \nIntroduction  \n \nDr. Sir Allama M ... (2685 characters truncated) ... ialkot’s Scotch \nMission College, where Mir Hasan himself was a pro fessor of Arabic. From there, \nIqbal p assed his intermediate or F.A. in 1895 .', 'data\\Biography-Allama-Iqbal.pdf', 'pdf', '8c56f5bffca44c0ad315287eb5f1243b', '80611b0e841af67636a74414b1beb165', 501, '{"text": "IQBAL  by Mustansir Mir  \\n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \\n \\n \\nIntroduction  \\n \\n ... (3084 characters truncated) ... bal.pdf", "file_type": "pdf", "file_hash": "8c56f5bffca44c0ad315287eb5f1243b", "chunk_hash": "80611b0e841af67636a74414b1beb165", "chunk_length": 501}')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-08-24 13:51:05,934 - core.vector_store - INFO - Added 26 vectors to store
+2025-08-24 13:51:05,934 - core.rag_system - INFO - Document ingestion completed
+2025-08-24 13:51:10,813 - core.query_processor - INFO - Query transformed into 1 variations: ['Which place the allama iqbal is born?']
+2025-08-24 13:51:10,813 - core.query_processor - INFO - Query routed to dense retrieval: Which place the allama iqbal is born?
+2025-08-24 13:51:10,929 - api.middleware - INFO - Request 6871f3bf-d2f9-4adf-b274-4ced37cc4af0 POST /api/v1/query completed in 0.12s with status 200
+2025-08-24 13:52:47,500 - core.document_processor - INFO - Document processor initialized
+2025-08-24 13:52:56,674 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 13:52:57,205 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 13:52:57,205 - core.query_processor - INFO - Query processor initialized
+2025-08-24 13:53:00,679 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 13:53:03,073 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 13:53:03,073 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 13:53:16,126 - core.document_processor - INFO - Document processor initialized
+2025-08-24 13:53:25,747 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 13:53:26,282 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 13:53:26,284 - core.query_processor - INFO - Query processor initialized
+2025-08-24 13:53:29,304 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 13:53:31,708 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 13:53:31,709 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 13:53:49,938 - api.middleware - INFO - Request 095dce37-8ff1-4db3-8911-62ce6100ed9f POST /api/v1/ingest completed in 0.00s with status 200
+2025-08-24 13:53:49,938 - core.rag_system - INFO - Starting ingestion of 1 documents
+2025-08-24 13:53:50,239 - core.document_processor - INFO - Successfully loaded data\Biography-Allama-Iqbal.pdf
+2025-08-24 13:53:50,239 - core.document_processor - INFO - Loaded 1 documents
+2025-08-24 13:53:50,246 - core.document_processor - INFO - Created 26 chunks from 1 documents
+2025-08-24 13:53:57,282 - core.vector_store - ERROR - Error storing metadata in database: (sqlite3.IntegrityError) UNIQUE constraint failed: document_chunks.chunk_id
+[SQL: INSERT INTO document_chunks (chunk_id, text, source, file_type, file_hash, chunk_hash, chunk_length, meta_data, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP) RETURNING id, created_at, updated_at]
+[parameters: ('578ba00c450d9451dbde94bfa311d61c', 'IQBAL  by Mustansir Mir  \n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \n \n \nIntroduction  \n \nDr. Sir Allama M ... (2685 characters truncated) ... ialkot’s Scotch \nMission College, where Mir Hasan himself was a pro fessor of Arabic. From there, \nIqbal p assed his intermediate or F.A. in 1895 .', 'data\\Biography-Allama-Iqbal.pdf', 'pdf', '8c56f5bffca44c0ad315287eb5f1243b', '80611b0e841af67636a74414b1beb165', 501, '{"text": "IQBAL  by Mustansir Mir  \\n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \\n \\n \\nIntroduction  \\n \\n ... (3084 characters truncated) ... bal.pdf", "file_type": "pdf", "file_hash": "8c56f5bffca44c0ad315287eb5f1243b", "chunk_hash": "80611b0e841af67636a74414b1beb165", "chunk_length": 501}')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-08-24 13:53:57,283 - core.vector_store - INFO - Added 26 vectors to store
+2025-08-24 13:53:57,283 - core.rag_system - INFO - Document ingestion completed
+2025-08-24 13:54:10,136 - core.query_processor - INFO - Query transformed into 1 variations: ['Which place the allama iqbal is born?']
+2025-08-24 13:54:10,137 - core.query_processor - INFO - Query routed to dense retrieval: Which place the allama iqbal is born?
+2025-08-24 13:54:10,279 - api.middleware - INFO - Request aeaf75be-6b6e-458e-b643-ef43d3f000e0 POST /api/v1/query completed in 0.14s with status 200
+2025-08-24 13:55:47,518 - core.document_processor - INFO - Document processor initialized
+2025-08-24 13:55:55,704 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 13:55:56,216 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 13:55:56,217 - core.query_processor - INFO - Query processor initialized
+2025-08-24 13:55:59,158 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 13:56:01,521 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 13:56:01,522 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 13:56:04,971 - core.document_processor - INFO - Document processor initialized
+2025-08-24 13:56:12,332 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 13:56:12,864 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 13:56:12,864 - core.query_processor - INFO - Query processor initialized
+2025-08-24 13:56:16,404 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 13:56:22,480 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 13:56:22,480 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 13:56:47,032 - core.document_processor - INFO - Document processor initialized
+2025-08-24 13:56:55,197 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 13:56:55,744 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 13:56:55,745 - core.query_processor - INFO - Query processor initialized
+2025-08-24 13:57:00,256 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 13:57:03,131 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 13:57:03,132 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 13:57:18,500 - api.middleware - INFO - Request ca2a58ad-92bd-4bf7-84a0-4e662243a723 POST /api/v1/ingest completed in 0.00s with status 200
+2025-08-24 13:57:18,503 - core.rag_system - INFO - Starting ingestion of 1 documents
+2025-08-24 13:57:18,801 - core.document_processor - INFO - Successfully loaded data\Biography-Allama-Iqbal.pdf
+2025-08-24 13:57:18,801 - core.document_processor - INFO - Loaded 1 documents
+2025-08-24 13:57:18,806 - core.document_processor - INFO - Created 26 chunks from 1 documents
+2025-08-24 13:57:25,934 - core.vector_store - ERROR - Error storing metadata in database: (sqlite3.IntegrityError) UNIQUE constraint failed: document_chunks.chunk_id
+[SQL: INSERT INTO document_chunks (chunk_id, text, source, file_type, file_hash, chunk_hash, chunk_length, meta_data, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP) RETURNING id, created_at, updated_at]
+[parameters: ('578ba00c450d9451dbde94bfa311d61c', 'IQBAL  by Mustansir Mir  \n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \n \n \nIntroduction  \n \nDr. Sir Allama M ... (2685 characters truncated) ... ialkot’s Scotch \nMission College, where Mir Hasan himself was a pro fessor of Arabic. From there, \nIqbal p assed his intermediate or F.A. in 1895 .', 'data\\Biography-Allama-Iqbal.pdf', 'pdf', '8c56f5bffca44c0ad315287eb5f1243b', '80611b0e841af67636a74414b1beb165', 501, '{"text": "IQBAL  by Mustansir Mir  \\n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \\n \\n \\nIntroduction  \\n \\n ... (3084 characters truncated) ... bal.pdf", "file_type": "pdf", "file_hash": "8c56f5bffca44c0ad315287eb5f1243b", "chunk_hash": "80611b0e841af67636a74414b1beb165", "chunk_length": 501}')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-08-24 13:57:25,935 - core.vector_store - INFO - Added 26 vectors to store
+2025-08-24 13:57:25,935 - core.rag_system - INFO - Document ingestion completed
+2025-08-24 13:57:30,017 - core.query_processor - INFO - Query transformed into 1 variations: ['Which place the allama iqbal is born?']
+2025-08-24 13:57:30,018 - core.query_processor - INFO - Query routed to dense retrieval: Which place the allama iqbal is born?
+2025-08-24 13:57:30,274 - core.reranker - INFO - Reranked 10 results, returning top 3
+2025-08-24 13:57:30,276 - api.middleware - INFO - Request 30ef86bb-7b59-404e-a162-618bcc67cae9 POST /api/v1/query completed in 0.26s with status 200
+2025-08-24 14:01:18,291 - core.document_processor - INFO - Document processor initialized
+2025-08-24 14:01:27,974 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 14:01:28,520 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 14:01:28,521 - core.query_processor - INFO - Query processor initialized
+2025-08-24 14:01:32,292 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 14:01:34,730 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 14:01:34,730 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 14:01:54,069 - core.document_processor - INFO - Document processor initialized
+2025-08-24 14:02:01,638 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 14:02:02,186 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 14:02:02,186 - core.query_processor - INFO - Query processor initialized
+2025-08-24 14:02:05,474 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 14:02:09,834 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 14:02:09,835 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 14:02:35,230 - api.middleware - INFO - Request cb06ef5f-8742-465c-bd80-deabe43e0fc9 POST /api/v1/ingest completed in 0.00s with status 200
+2025-08-24 14:02:35,233 - core.rag_system - INFO - Starting ingestion of 1 documents
+2025-08-24 14:02:35,528 - core.document_processor - INFO - Successfully loaded data\Biography-Allama-Iqbal.pdf
+2025-08-24 14:02:35,528 - core.document_processor - INFO - Loaded 1 documents
+2025-08-24 14:02:35,534 - core.document_processor - INFO - Created 26 chunks from 1 documents
+2025-08-24 14:02:42,947 - core.vector_store - ERROR - Error storing metadata in database: (sqlite3.IntegrityError) UNIQUE constraint failed: document_chunks.chunk_id
+[SQL: INSERT INTO document_chunks (chunk_id, text, source, file_type, file_hash, chunk_hash, chunk_length, meta_data, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP) RETURNING id, created_at, updated_at]
+[parameters: ('578ba00c450d9451dbde94bfa311d61c', 'IQBAL  by Mustansir Mir  \n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \n \n \nIntroduction  \n \nDr. Sir Allama M ... (2685 characters truncated) ... ialkot’s Scotch \nMission College, where Mir Hasan himself was a pro fessor of Arabic. From there, \nIqbal p assed his intermediate or F.A. in 1895 .', 'data\\Biography-Allama-Iqbal.pdf', 'pdf', '8c56f5bffca44c0ad315287eb5f1243b', '80611b0e841af67636a74414b1beb165', 501, '{"text": "IQBAL  by Mustansir Mir  \\n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \\n \\n \\nIntroduction  \\n \\n ... (3084 characters truncated) ... bal.pdf", "file_type": "pdf", "file_hash": "8c56f5bffca44c0ad315287eb5f1243b", "chunk_hash": "80611b0e841af67636a74414b1beb165", "chunk_length": 501}')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-08-24 14:02:42,948 - core.vector_store - INFO - Added 26 vectors to store
+2025-08-24 14:02:42,948 - core.rag_system - INFO - Document ingestion completed
+2025-08-24 14:02:45,264 - core.query_processor - INFO - Query transformed into 1 variations: ['Which place the allama iqbal is born?']
+2025-08-24 14:02:45,265 - core.query_processor - INFO - Query routed to dense retrieval: Which place the allama iqbal is born?
+2025-08-24 14:02:45,399 - core.reranker - INFO - Reranked 10 results, returning top 3
+2025-08-24 14:02:53,410 - api.middleware - INFO - Request 7bde9b2b-a08a-4053-86fe-2a48c3074400 POST /api/v1/query completed in 8.15s with status 200
+2025-08-24 14:04:16,246 - core.document_processor - INFO - Document processor initialized
+2025-08-24 14:04:25,173 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 14:04:25,712 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 14:04:25,712 - core.query_processor - INFO - Query processor initialized
+2025-08-24 14:04:30,186 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 14:04:33,185 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 14:04:33,185 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 14:13:14,528 - core.document_processor - INFO - Document processor initialized
+2025-08-24 14:13:26,719 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 14:13:27,255 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 14:13:27,256 - core.query_processor - INFO - Query processor initialized
+2025-08-24 14:13:30,407 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 14:13:32,833 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 14:13:32,834 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 14:14:17,388 - core.document_processor - INFO - Document processor initialized
+2025-08-24 14:14:25,986 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 14:14:26,516 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 14:14:26,517 - core.query_processor - INFO - Query processor initialized
+2025-08-24 14:14:30,286 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 14:14:32,802 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 14:14:32,803 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 14:14:36,458 - core.document_processor - INFO - Document processor initialized
+2025-08-24 14:14:44,376 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 14:14:44,890 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 14:14:44,891 - core.query_processor - INFO - Query processor initialized
+2025-08-24 14:14:48,613 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 14:14:50,985 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 14:14:50,986 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 14:15:09,580 - core.document_processor - INFO - Document processor initialized
+2025-08-24 14:15:18,689 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 14:15:19,253 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 14:15:19,254 - core.query_processor - INFO - Query processor initialized
+2025-08-24 14:15:27,399 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 14:15:29,814 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 14:15:29,815 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 14:15:49,374 - api.middleware - INFO - Request 3441933d-9fc6-41e0-9079-6cb8c52300ad POST /api/v1/ingest completed in 0.00s with status 200
+2025-08-24 14:15:49,376 - core.rag_system - INFO - Starting ingestion of 1 documents
+2025-08-24 14:15:49,664 - core.document_processor - INFO - Successfully loaded data\Biography-Allama-Iqbal.pdf
+2025-08-24 14:15:49,665 - core.document_processor - INFO - Loaded 1 documents
+2025-08-24 14:15:49,669 - core.document_processor - INFO - Created 26 chunks from 1 documents
+2025-08-24 14:15:57,000 - core.vector_store - ERROR - Error storing metadata in database: (sqlite3.IntegrityError) UNIQUE constraint failed: document_chunks.chunk_id
+[SQL: INSERT INTO document_chunks (chunk_id, text, source, file_type, file_hash, chunk_hash, chunk_length, meta_data, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP) RETURNING id, created_at, updated_at]
+[parameters: ('578ba00c450d9451dbde94bfa311d61c', 'IQBAL  by Mustansir Mir  \n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \n \n \nIntroduction  \n \nDr. Sir Allama M ... (2685 characters truncated) ... ialkot’s Scotch \nMission College, where Mir Hasan himself was a pro fessor of Arabic. From there, \nIqbal p assed his intermediate or F.A. in 1895 .', 'data\\Biography-Allama-Iqbal.pdf', 'pdf', '8c56f5bffca44c0ad315287eb5f1243b', '80611b0e841af67636a74414b1beb165', 501, '{"text": "IQBAL  by Mustansir Mir  \\n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \\n \\n \\nIntroduction  \\n \\n ... (3084 characters truncated) ... bal.pdf", "file_type": "pdf", "file_hash": "8c56f5bffca44c0ad315287eb5f1243b", "chunk_hash": "80611b0e841af67636a74414b1beb165", "chunk_length": 501}')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-08-24 14:15:57,001 - core.vector_store - INFO - Added 26 vectors to store
+2025-08-24 14:15:57,001 - core.rag_system - INFO - Document ingestion completed
+2025-08-24 14:16:00,154 - core.query_processor - INFO - Query transformed into 1 variations: ['Which place the allama iqbal is born?']
+2025-08-24 14:16:00,155 - core.query_processor - INFO - Query routed to dense retrieval: Which place the allama iqbal is born?
+2025-08-24 14:16:00,327 - core.reranker - INFO - Reranked 10 results, returning top 3
+2025-08-24 14:16:04,169 - core.llm_generator - ERROR - OpenAI API error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-08-24 14:16:11,133 - core.llm_generator - ERROR - OpenAI API error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-08-24 14:16:18,479 - core.llm_generator - ERROR - OpenAI API error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-08-24 14:16:18,490 - api.middleware - INFO - Request db464828-1388-4f52-b7a0-fce1f6c7e8d0 POST /api/v1/query completed in 18.34s with status 200
+2025-08-24 14:34:22,873 - core.document_processor - INFO - Document processor initialized
+2025-08-24 14:34:35,455 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 14:34:36,480 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 14:34:36,480 - core.query_processor - INFO - Query processor initialized
+2025-08-24 14:34:40,622 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 14:34:44,707 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 14:34:44,707 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 14:34:50,817 - core.document_processor - INFO - Document processor initialized
+2025-08-24 14:35:07,932 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 14:35:08,855 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 14:35:08,855 - core.query_processor - INFO - Query processor initialized
+2025-08-24 14:35:12,386 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 14:35:15,285 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 14:35:15,285 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 14:35:20,110 - core.document_processor - INFO - Document processor initialized
+2025-08-24 14:35:29,435 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 14:35:31,435 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 14:35:31,435 - core.query_processor - INFO - Query processor initialized
+2025-08-24 14:35:35,644 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 14:35:40,684 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 14:35:40,689 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 14:38:56,087 - core.document_processor - INFO - Document processor initialized
+2025-08-24 14:39:10,224 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 14:39:12,170 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 14:39:12,170 - core.query_processor - INFO - Query processor initialized
+2025-08-24 14:39:15,918 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 14:39:20,862 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 14:39:20,862 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 14:42:14,873 - core.document_processor - INFO - Document processor initialized
+2025-08-24 14:42:30,489 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 14:42:31,147 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 14:42:31,149 - core.query_processor - INFO - Query processor initialized
+2025-08-24 14:42:35,541 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 14:42:38,639 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 14:42:38,639 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 14:44:08,236 - core.document_processor - INFO - Document processor initialized
+2025-08-24 14:44:17,273 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 14:44:17,972 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 14:44:17,972 - core.query_processor - INFO - Query processor initialized
+2025-08-24 14:44:21,445 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 14:44:27,599 - core.llm_generator - INFO - LLM generator initialized with openai:gpt-3.5-turbo
+2025-08-24 14:44:27,604 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 14:50:36,196 - core.document_processor - INFO - Document processor initialized
+2025-08-24 14:50:59,221 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 14:50:59,815 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 14:50:59,815 - core.query_processor - INFO - Query processor initialized
+2025-08-24 14:51:04,053 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 14:51:04,053 - core.llm_generator - WARNING - OPENAI_API_KEY not found. Switching to mock mode.
+2025-08-24 14:51:04,053 - core.llm_generator - INFO - Using mock LLM mode - responses will be simulated
+2025-08-24 14:51:04,053 - core.llm_generator - INFO - LLM generator initialized with mock:mock
+2025-08-24 14:51:04,053 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 14:51:42,889 - api.middleware - INFO - Request a1ca362c-10b5-4542-99e3-4c5e57aeaaa7 POST /api/v1/ingest completed in 0.02s with status 200
+2025-08-24 14:51:42,889 - core.rag_system - INFO - Starting ingestion of 1 documents
+2025-08-24 14:51:43,467 - core.document_processor - INFO - Successfully loaded data\Biography-Allama-Iqbal.pdf
+2025-08-24 14:51:43,467 - core.document_processor - INFO - Loaded 1 documents
+2025-08-24 14:51:43,475 - core.document_processor - INFO - Created 26 chunks from 1 documents
+2025-08-24 14:51:52,128 - core.vector_store - ERROR - Error storing metadata in database: (sqlite3.IntegrityError) UNIQUE constraint failed: document_chunks.chunk_id
+[SQL: INSERT INTO document_chunks (chunk_id, text, source, file_type, file_hash, chunk_hash, chunk_length, meta_data, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP) RETURNING id, created_at, updated_at]
+[parameters: ('578ba00c450d9451dbde94bfa311d61c', 'IQBAL  by Mustansir Mir  \n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \n \n \nIntroduction  \n \nDr. Sir Allama M ... (2685 characters truncated) ... ialkot’s Scotch \nMission College, where Mir Hasan himself was a pro fessor of Arabic. From there, \nIqbal p assed his intermediate or F.A. in 1895 .', 'data\\Biography-Allama-Iqbal.pdf', 'pdf', '8c56f5bffca44c0ad315287eb5f1243b', '80611b0e841af67636a74414b1beb165', 501, '{"text": "IQBAL  by Mustansir Mir  \\n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \\n \\n \\nIntroduction  \\n \\n ... (3084 characters truncated) ... bal.pdf", "file_type": "pdf", "file_hash": "8c56f5bffca44c0ad315287eb5f1243b", "chunk_hash": "80611b0e841af67636a74414b1beb165", "chunk_length": 501}')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-08-24 14:51:52,128 - core.vector_store - INFO - Added 26 vectors to store
+2025-08-24 14:51:52,128 - core.rag_system - INFO - Document ingestion completed
+2025-08-24 14:52:10,000 - core.query_processor - INFO - Query transformed into 1 variations: ['Which place the allama iqbal is born?']
+2025-08-24 14:52:10,000 - core.query_processor - INFO - Query routed to dense retrieval: Which place the allama iqbal is born?
+2025-08-24 14:52:10,177 - core.reranker - INFO - Reranked 10 results, returning top 3
+2025-08-24 14:52:10,177 - api.middleware - INFO - Request 41a9fbe8-1feb-4b25-a92a-e899280c48bc POST /api/v1/query completed in 0.18s with status 200
+2025-08-24 14:56:01,462 - core.document_processor - INFO - Document processor initialized
+2025-08-24 14:56:34,461 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 14:56:35,199 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 14:56:35,199 - core.query_processor - INFO - Query processor initialized
+2025-08-24 14:56:47,738 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 14:56:47,738 - core.llm_generator - WARNING - OPENAI_API_KEY not found. Switching to mock mode.
+2025-08-24 14:56:47,738 - core.llm_generator - INFO - Using mock LLM mode - responses will be simulated
+2025-08-24 14:56:47,738 - core.llm_generator - INFO - LLM generator initialized with mock:mock
+2025-08-24 14:56:47,738 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 14:57:13,359 - core.document_processor - INFO - Document processor initialized
+2025-08-24 14:57:24,879 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 14:57:25,511 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 14:57:25,511 - core.query_processor - INFO - Query processor initialized
+2025-08-24 14:57:30,305 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 14:57:30,307 - core.llm_generator - WARNING - OPENAI_API_KEY not found. Switching to mock mode.
+2025-08-24 14:57:30,308 - core.llm_generator - INFO - Using mock LLM mode - responses will be simulated
+2025-08-24 14:57:30,308 - core.llm_generator - INFO - LLM generator initialized with mock:mock
+2025-08-24 14:57:30,308 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 14:57:55,052 - api.middleware - INFO - Request c65ba4f7-f07b-485e-81ca-03a835e1c030 POST /api/v1/ingest completed in 0.00s with status 200
+2025-08-24 14:57:55,061 - core.rag_system - INFO - Starting ingestion of 1 documents
+2025-08-24 14:57:55,618 - core.document_processor - INFO - Successfully loaded data\Biography-Allama-Iqbal.pdf
+2025-08-24 14:57:55,618 - core.document_processor - INFO - Loaded 1 documents
+2025-08-24 14:57:55,629 - core.document_processor - INFO - Created 26 chunks from 1 documents
+2025-08-24 14:58:03,992 - core.vector_store - ERROR - Error storing metadata in database: (sqlite3.IntegrityError) UNIQUE constraint failed: document_chunks.chunk_id
+[SQL: INSERT INTO document_chunks (chunk_id, text, source, file_type, file_hash, chunk_hash, chunk_length, meta_data, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP) RETURNING id, created_at, updated_at]
+[parameters: ('578ba00c450d9451dbde94bfa311d61c', 'IQBAL  by Mustansir Mir  \n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \n \n \nIntroduction  \n \nDr. Sir Allama M ... (2685 characters truncated) ... ialkot’s Scotch \nMission College, where Mir Hasan himself was a pro fessor of Arabic. From there, \nIqbal p assed his intermediate or F.A. in 1895 .', 'data\\Biography-Allama-Iqbal.pdf', 'pdf', '8c56f5bffca44c0ad315287eb5f1243b', '80611b0e841af67636a74414b1beb165', 501, '{"text": "IQBAL  by Mustansir Mir  \\n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \\n \\n \\nIntroduction  \\n \\n ... (3084 characters truncated) ... bal.pdf", "file_type": "pdf", "file_hash": "8c56f5bffca44c0ad315287eb5f1243b", "chunk_hash": "80611b0e841af67636a74414b1beb165", "chunk_length": 501}')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-08-24 14:58:03,992 - core.vector_store - INFO - Added 26 vectors to store
+2025-08-24 14:58:03,992 - core.rag_system - INFO - Document ingestion completed
+2025-08-24 14:58:16,171 - core.query_processor - INFO - Query transformed into 1 variations: ['Which place the allama iqbal is born?']
+2025-08-24 14:58:16,171 - core.query_processor - INFO - Query routed to dense retrieval: Which place the allama iqbal is born?
+2025-08-24 14:58:16,443 - core.reranker - INFO - Reranked 10 results, returning top 3
+2025-08-24 14:58:16,466 - core.rag_system - INFO - Query processed in 0.28s. Strategy: dense
+2025-08-24 14:58:16,471 - api.middleware - INFO - Request 8c866029-e5d0-4580-91a2-bd762fde376a POST /api/v1/query completed in 0.30s with status 200
+2025-08-24 15:05:03,143 - core.document_processor - INFO - Document processor initialized
+2025-08-24 15:05:13,123 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 15:05:13,828 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 15:05:13,828 - core.query_processor - INFO - Query processor initialized
+2025-08-24 15:05:17,682 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 15:05:17,682 - core.llm_generator - WARNING - OPENAI_API_KEY not found. Switching to mock mode.
+2025-08-24 15:05:17,682 - core.llm_generator - INFO - Using mock LLM mode - responses will be simulated
+2025-08-24 15:05:17,682 - core.llm_generator - INFO - LLM generator initialized with mock:mock
+2025-08-24 15:05:17,682 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 15:06:32,472 - core.document_processor - INFO - Document processor initialized
+2025-08-24 15:06:44,081 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 15:06:44,738 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 15:06:44,738 - core.query_processor - INFO - Query processor initialized
+2025-08-24 15:06:49,280 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 15:39:14,902 - core.document_processor - INFO - Document processor initialized
+2025-08-24 15:39:25,067 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 15:39:25,745 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 15:39:25,745 - core.query_processor - INFO - Query processor initialized
+2025-08-24 15:39:29,775 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 15:39:55,358 - core.document_processor - INFO - Document processor initialized
+2025-08-24 15:40:03,893 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 15:40:04,521 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 15:40:04,521 - core.query_processor - INFO - Query processor initialized
+2025-08-24 15:40:07,932 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 15:43:10,213 - core.document_processor - INFO - Document processor initialized
+2025-08-24 15:43:23,473 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 15:43:24,111 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 15:43:24,111 - core.query_processor - INFO - Query processor initialized
+2025-08-24 15:43:37,887 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 15:43:43,481 - core.document_processor - INFO - Document processor initialized
+2025-08-24 15:43:52,449 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 15:43:53,065 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 15:43:53,065 - core.query_processor - INFO - Query processor initialized
+2025-08-24 15:43:56,973 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 15:44:14,881 - core.document_processor - INFO - Document processor initialized
+2025-08-24 15:44:23,761 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 15:44:24,409 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 15:44:24,409 - core.query_processor - INFO - Query processor initialized
+2025-08-24 15:44:28,131 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 15:48:56,235 - core.document_processor - INFO - Document processor initialized
+2025-08-24 15:49:05,768 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 15:49:06,374 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 15:49:06,374 - core.query_processor - INFO - Query processor initialized
+2025-08-24 15:49:10,621 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 15:49:16,147 - core.document_processor - INFO - Document processor initialized
+2025-08-24 15:49:25,567 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 15:49:26,214 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 15:49:26,214 - core.query_processor - INFO - Query processor initialized
+2025-08-24 15:49:29,888 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 15:52:26,004 - core.document_processor - INFO - Document processor initialized
+2025-08-24 15:52:38,155 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 15:52:38,793 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 15:52:38,793 - core.query_processor - INFO - Query processor initialized
+2025-08-24 15:52:42,337 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 15:52:42,337 - core.llm_generator - WARNING - OPENAI_API_KEY not found. Switching to mock mode.
+2025-08-24 15:52:42,337 - core.llm_generator - INFO - Using mock LLM mode - responses will be simulated
+2025-08-24 15:52:42,337 - core.llm_generator - INFO - LLM generator initialized with mock:mock
+2025-08-24 15:52:42,337 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 15:53:10,777 - api.middleware - INFO - Request 30a1a4b1-342e-41de-9c41-6e5238eaace2 POST /api/v1/ingest completed in 0.00s with status 200
+2025-08-24 15:53:10,777 - core.rag_system - INFO - Starting ingestion of 1 documents
+2025-08-24 15:53:11,365 - core.document_processor - INFO - Successfully loaded data\Biography-Allama-Iqbal.pdf
+2025-08-24 15:53:11,365 - core.document_processor - INFO - Loaded 1 documents
+2025-08-24 15:53:11,372 - core.document_processor - INFO - Created 26 chunks from 1 documents
+2025-08-24 15:53:19,826 - core.vector_store - ERROR - Error storing metadata in database: (sqlite3.IntegrityError) UNIQUE constraint failed: document_chunks.chunk_id
+[SQL: INSERT INTO document_chunks (chunk_id, text, source, file_type, file_hash, chunk_hash, chunk_length, meta_data, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP) RETURNING id, created_at, updated_at]
+[parameters: ('578ba00c450d9451dbde94bfa311d61c', 'IQBAL  by Mustansir Mir  \n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \n \n \nIntroduction  \n \nDr. Sir Allama M ... (2685 characters truncated) ... ialkot’s Scotch \nMission College, where Mir Hasan himself was a pro fessor of Arabic. From there, \nIqbal p assed his intermediate or F.A. in 1895 .', 'data\\Biography-Allama-Iqbal.pdf', 'pdf', '8c56f5bffca44c0ad315287eb5f1243b', '80611b0e841af67636a74414b1beb165', 501, '{"text": "IQBAL  by Mustansir Mir  \\n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \\n \\n \\nIntroduction  \\n \\n ... (3084 characters truncated) ... bal.pdf", "file_type": "pdf", "file_hash": "8c56f5bffca44c0ad315287eb5f1243b", "chunk_hash": "80611b0e841af67636a74414b1beb165", "chunk_length": 501}')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-08-24 15:53:19,826 - core.vector_store - INFO - Added 26 vectors to store
+2025-08-24 15:53:19,826 - core.rag_system - INFO - Document ingestion completed
+2025-08-24 15:53:26,364 - core.query_processor - INFO - Query transformed into 1 variations: ['Which place the allama iqbal is born?']
+2025-08-24 15:53:26,364 - core.query_processor - INFO - Query routed to dense retrieval: Which place the allama iqbal is born?
+2025-08-24 15:53:26,591 - core.reranker - INFO - Reranked 10 results, returning top 3
+2025-08-24 15:53:26,606 - core.rag_system - INFO - Query processed in 0.23s. Strategy: dense
+2025-08-24 15:53:26,606 - api.middleware - INFO - Request ca1a79f0-8af4-4ec0-9c1d-54e92253d466 POST /api/v1/query completed in 0.24s with status 200
+2025-08-24 15:56:28,707 - core.document_processor - INFO - Document processor initialized
+2025-08-24 15:56:37,910 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 15:56:38,560 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 15:56:38,560 - core.query_processor - INFO - Query processor initialized
+2025-08-24 15:56:41,821 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 15:56:41,821 - core.llm_generator - WARNING - OPENAI_API_KEY not found. Switching to mock mode.
+2025-08-24 15:56:41,821 - core.llm_generator - ERROR - Gemini initialization failed: GEMINI_API_KEY environment variable is not set
+2025-08-24 15:56:57,600 - core.document_processor - INFO - Document processor initialized
+2025-08-24 15:57:06,842 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 15:57:07,468 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 15:57:07,468 - core.query_processor - INFO - Query processor initialized
+2025-08-24 15:57:10,863 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 15:57:10,863 - core.llm_generator - WARNING - OPENAI_API_KEY not found. Switching to mock mode.
+2025-08-24 15:57:10,863 - core.llm_generator - ERROR - Gemini initialization failed: GEMINI_API_KEY environment variable is not set
+2025-08-24 15:59:04,320 - core.document_processor - INFO - Document processor initialized
+2025-08-24 15:59:13,623 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 15:59:14,284 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 15:59:14,284 - core.query_processor - INFO - Query processor initialized
+2025-08-24 15:59:17,864 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 15:59:17,864 - core.llm_generator - INFO - Gemini client initialized with model: gemini-1.5-flash
+2025-08-24 16:05:24,874 - core.document_processor - INFO - Document processor initialized
+2025-08-24 16:05:43,717 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 16:05:44,520 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 16:05:44,520 - core.query_processor - INFO - Query processor initialized
+2025-08-24 16:05:48,975 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 16:05:48,975 - core.llm_generator - INFO - Gemini client initialized with model: gemini-1.5-flash
+2025-08-24 16:07:08,969 - core.document_processor - INFO - Document processor initialized
+2025-08-24 16:07:18,342 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 16:07:19,021 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 16:07:19,021 - core.query_processor - INFO - Query processor initialized
+2025-08-24 16:07:24,195 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 16:07:24,195 - core.llm_generator - INFO - Gemini client initialized with model: gemini-1.5-flash
+2025-08-24 16:10:13,873 - core.document_processor - INFO - Document processor initialized
+2025-08-24 16:10:24,141 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 16:10:24,751 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 16:10:24,751 - core.query_processor - INFO - Query processor initialized
+2025-08-24 16:10:28,284 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 16:10:28,284 - core.llm_generator - INFO - Gemini client initialized with model: gemini-1.5-flash
+2025-08-24 16:15:06,426 - core.document_processor - INFO - Document processor initialized
+2025-08-24 16:15:24,833 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 16:15:25,463 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 16:15:25,463 - core.query_processor - INFO - Query processor initialized
+2025-08-24 16:15:29,434 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 16:15:29,434 - core.llm_generator - INFO - Gemini client initialized with model: gemini-1.5-flash
+2025-08-24 16:17:59,853 - core.document_processor - INFO - Document processor initialized
+2025-08-24 16:18:09,293 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 16:18:09,958 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 16:18:09,958 - core.query_processor - INFO - Query processor initialized
+2025-08-24 16:18:13,174 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 16:18:13,174 - core.llm_generator - INFO - Gemini client initialized with model: gemini-1.5-flash
+2025-08-24 16:19:09,513 - core.document_processor - INFO - Document processor initialized
+2025-08-24 16:19:20,096 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 16:19:20,763 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 16:19:20,763 - core.query_processor - INFO - Query processor initialized
+2025-08-24 16:19:24,990 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 16:19:24,990 - core.llm_generator - INFO - Gemini client initialized with model: gemini-pro
+2025-08-24 16:23:10,635 - core.document_processor - INFO - Document processor initialized
+2025-08-24 16:23:20,115 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 16:23:20,741 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 16:23:20,741 - core.query_processor - INFO - Query processor initialized
+2025-08-24 16:23:26,000 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 16:23:26,000 - core.llm_generator - INFO - Gemini client initialized with model: gemini-pro
+2025-08-24 16:24:19,948 - core.document_processor - INFO - Document processor initialized
+2025-08-24 16:24:31,806 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 16:24:32,454 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 16:24:32,454 - core.query_processor - INFO - Query processor initialized
+2025-08-24 16:24:36,532 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 16:24:36,532 - core.llm_generator - INFO - Gemini client initialized with model: gemini-pro
+2025-08-24 16:25:42,048 - core.document_processor - INFO - Document processor initialized
+2025-08-24 16:25:51,121 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 16:25:51,739 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 16:25:51,739 - core.query_processor - INFO - Query processor initialized
+2025-08-24 16:25:55,244 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 16:25:55,244 - core.llm_generator - INFO - Gemini client initialized with model: gemini-pro
+2025-08-24 16:40:35,888 - core.document_processor - INFO - Document processor initialized
+2025-08-24 16:41:29,631 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 16:41:30,350 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 16:41:30,350 - core.query_processor - INFO - Query processor initialized
+2025-08-24 16:41:42,454 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 16:42:50,395 - core.document_processor - INFO - Document processor initialized
+2025-08-24 16:43:03,122 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 16:43:04,924 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 16:43:04,924 - core.query_processor - INFO - Query processor initialized
+2025-08-24 16:43:11,230 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 16:43:24,428 - core.document_processor - INFO - Document processor initialized
+2025-08-24 16:43:36,121 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 16:43:36,732 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 16:43:36,733 - core.query_processor - INFO - Query processor initialized
+2025-08-24 16:43:41,033 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 16:45:26,544 - core.document_processor - INFO - Document processor initialized
+2025-08-24 16:45:37,987 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 16:45:38,649 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 16:45:38,650 - core.query_processor - INFO - Query processor initialized
+2025-08-24 16:45:43,050 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 16:45:43,051 - core.llm_generator - INFO - Gemini client initialized with model: gemini-pro
+2025-08-24 16:45:52,310 - core.document_processor - INFO - Document processor initialized
+2025-08-24 16:46:10,242 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 16:46:10,945 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 16:46:10,945 - core.query_processor - INFO - Query processor initialized
+2025-08-24 16:46:20,140 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 16:46:20,140 - core.llm_generator - INFO - Gemini client initialized with model: gemini-pro
+2025-08-24 16:47:45,120 - core.document_processor - INFO - Document processor initialized
+2025-08-24 16:47:54,889 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 16:47:55,564 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 16:47:55,564 - core.query_processor - INFO - Query processor initialized
+2025-08-24 16:47:59,492 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 16:47:59,492 - core.llm_generator - INFO - Gemini client initialized with model: gemini-pro
+2025-08-24 16:51:02,173 - core.document_processor - INFO - Document processor initialized
+2025-08-24 16:51:13,638 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 16:51:14,287 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 16:51:14,287 - core.query_processor - INFO - Query processor initialized
+2025-08-24 16:51:18,282 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 16:51:18,282 - core.llm_generator - INFO - Gemini client initialized with model: gemini-pro
+2025-08-24 16:51:46,754 - core.document_processor - INFO - Document processor initialized
+2025-08-24 16:51:57,813 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 16:51:58,462 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 16:51:58,462 - core.query_processor - INFO - Query processor initialized
+2025-08-24 16:52:02,607 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 16:52:02,607 - core.llm_generator - INFO - Gemini client initialized with model: gemini-pro
+2025-08-24 17:00:27,567 - core.document_processor - INFO - Document processor initialized
+2025-08-24 17:00:38,172 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 17:00:38,793 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 17:00:38,793 - core.query_processor - INFO - Query processor initialized
+2025-08-24 17:00:42,773 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 17:00:42,773 - core.llm_generator - INFO - Gemini client initialized with model: gemini-pro
+2025-08-24 17:06:36,885 - core.document_processor - INFO - Document processor initialized
+2025-08-24 17:06:50,157 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 17:06:50,804 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 17:06:50,804 - core.query_processor - INFO - Query processor initialized
+2025-08-24 17:06:57,034 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 17:06:57,037 - core.llm_generator - INFO - Gemini client initialized with model: gemini-pro
+2025-08-24 17:08:05,107 - core.document_processor - INFO - Document processor initialized
+2025-08-24 17:08:16,159 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 17:08:16,769 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 17:08:16,772 - core.query_processor - INFO - Query processor initialized
+2025-08-24 17:08:21,362 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 17:08:21,364 - core.llm_generator - INFO - Gemini client initialized with model: gemini-pro
+2025-08-24 17:08:21,364 - core.llm_generator - INFO - LLM generator initialized with gemini:gemini-pro
+2025-08-24 17:08:21,365 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 17:09:38,678 - api.middleware - INFO - Request cad2ba71-356c-4f4d-83de-31924d4a147d POST /api/v1/ingest completed in 0.00s with status 200
+2025-08-24 17:09:38,678 - core.rag_system - INFO - Starting ingestion of 1 documents
+2025-08-24 17:09:39,252 - core.document_processor - INFO - Successfully loaded data\Biography-Allama-Iqbal.pdf
+2025-08-24 17:09:39,252 - core.document_processor - INFO - Loaded 1 documents
+2025-08-24 17:09:39,265 - core.document_processor - INFO - Created 26 chunks from 1 documents
+2025-08-24 17:09:48,526 - core.vector_store - ERROR - Error storing metadata in database: (sqlite3.IntegrityError) UNIQUE constraint failed: document_chunks.chunk_id
+[SQL: INSERT INTO document_chunks (chunk_id, text, source, file_type, file_hash, chunk_hash, chunk_length, meta_data, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP) RETURNING id, created_at, updated_at]
+[parameters: ('578ba00c450d9451dbde94bfa311d61c', 'IQBAL  by Mustansir Mir  \n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \n \n \nIntroduction  \n \nDr. Sir Allama M ... (2685 characters truncated) ... ialkot’s Scotch \nMission College, where Mir Hasan himself was a pro fessor of Arabic. From there, \nIqbal p assed his intermediate or F.A. in 1895 .', 'data\\Biography-Allama-Iqbal.pdf', 'pdf', '8c56f5bffca44c0ad315287eb5f1243b', '80611b0e841af67636a74414b1beb165', 501, '{"text": "IQBAL  by Mustansir Mir  \\n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \\n \\n \\nIntroduction  \\n \\n ... (3084 characters truncated) ... bal.pdf", "file_type": "pdf", "file_hash": "8c56f5bffca44c0ad315287eb5f1243b", "chunk_hash": "80611b0e841af67636a74414b1beb165", "chunk_length": 501}')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-08-24 17:09:48,526 - core.vector_store - INFO - Added 26 vectors to store
+2025-08-24 17:09:48,526 - core.rag_system - INFO - Document ingestion completed
+2025-08-24 17:10:05,647 - core.query_processor - INFO - Query transformed into 1 variations: ['Which place the allama iqbal is born?']
+2025-08-24 17:10:05,647 - core.query_processor - INFO - Query routed to dense retrieval: Which place the allama iqbal is born?
+2025-08-24 17:10:05,814 - core.reranker - INFO - Reranked 10 results, returning top 3
+2025-08-24 17:10:07,200 - core.llm_generator - ERROR - Gemini API error: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-08-24 17:10:11,399 - core.llm_generator - ERROR - Gemini API error: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-08-24 17:10:15,586 - core.llm_generator - ERROR - Gemini API error: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-08-24 17:10:15,605 - api.middleware - INFO - Request f655eb62-8a11-4269-a6af-d013c9e65c36 POST /api/v1/query completed in 9.96s with status 200
+2025-08-24 17:13:22,041 - core.document_processor - INFO - Document processor initialized
+2025-08-24 17:13:32,182 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-24 17:13:32,850 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-24 17:13:32,850 - core.query_processor - INFO - Query processor initialized
+2025-08-24 17:13:36,381 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-24 17:13:36,381 - core.llm_generator - INFO - Gemini client initialized with model: gemini-1.5-flash
+2025-08-24 17:13:36,381 - core.llm_generator - INFO - LLM generator initialized with gemini:gemini-1.5-flash
+2025-08-24 17:13:36,381 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-24 17:13:58,514 - api.middleware - INFO - Request 82e7d7d0-0427-4044-b6f5-f9eed9d630e1 POST /api/v1/ingest completed in 0.00s with status 200
+2025-08-24 17:13:58,522 - core.rag_system - INFO - Starting ingestion of 1 documents
+2025-08-24 17:13:59,080 - core.document_processor - INFO - Successfully loaded data\Biography-Allama-Iqbal.pdf
+2025-08-24 17:13:59,080 - core.document_processor - INFO - Loaded 1 documents
+2025-08-24 17:13:59,086 - core.document_processor - INFO - Created 26 chunks from 1 documents
+2025-08-24 17:14:07,861 - core.vector_store - ERROR - Error storing metadata in database: (sqlite3.IntegrityError) UNIQUE constraint failed: document_chunks.chunk_id
+[SQL: INSERT INTO document_chunks (chunk_id, text, source, file_type, file_hash, chunk_hash, chunk_length, meta_data, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP) RETURNING id, created_at, updated_at]
+[parameters: ('578ba00c450d9451dbde94bfa311d61c', 'IQBAL  by Mustansir Mir  \n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \n \n \nIntroduction  \n \nDr. Sir Allama M ... (2685 characters truncated) ... ialkot’s Scotch \nMission College, where Mir Hasan himself was a pro fessor of Arabic. From there, \nIqbal p assed his intermediate or F.A. in 1895 .', 'data\\Biography-Allama-Iqbal.pdf', 'pdf', '8c56f5bffca44c0ad315287eb5f1243b', '80611b0e841af67636a74414b1beb165', 501, '{"text": "IQBAL  by Mustansir Mir  \\n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \\n \\n \\nIntroduction  \\n \\n ... (3084 characters truncated) ... bal.pdf", "file_type": "pdf", "file_hash": "8c56f5bffca44c0ad315287eb5f1243b", "chunk_hash": "80611b0e841af67636a74414b1beb165", "chunk_length": 501}')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-08-24 17:14:07,861 - core.vector_store - INFO - Added 26 vectors to store
+2025-08-24 17:14:07,861 - core.rag_system - INFO - Document ingestion completed
+2025-08-24 17:14:14,058 - core.query_processor - INFO - Query transformed into 1 variations: ['Which place the allama iqbal is born?']
+2025-08-24 17:14:14,058 - core.query_processor - INFO - Query routed to dense retrieval: Which place the allama iqbal is born?
+2025-08-24 17:14:14,276 - core.reranker - INFO - Reranked 10 results, returning top 3
+2025-08-24 17:14:15,749 - core.rag_system - INFO - Query processed in 1.67s. Strategy: dense
+2025-08-24 17:14:15,749 - api.middleware - INFO - Request ae997cf2-0ca0-4b0d-8546-b1ca0577e6b1 POST /api/v1/query completed in 1.69s with status 200
+2025-08-24 17:17:29,444 - core.query_processor - INFO - Query transformed into 1 variations: ['Who was dr allama iqbal']
+2025-08-24 17:17:29,444 - core.query_processor - INFO - Query routed to hybrid retrieval: Who was dr allama iqbal
+2025-08-24 17:17:30,305 - core.reranker - INFO - Reranked 10 results, returning top 3
+2025-08-24 17:17:32,192 - core.rag_system - INFO - Query processed in 2.74s. Strategy: hybrid
+2025-08-24 17:17:32,192 - api.middleware - INFO - Request 032b1635-4fc0-464f-9ee3-6d3a165e201d POST /api/v1/query completed in 2.75s with status 200
+2025-08-25 22:27:59,843 - core.document_processor - INFO - Document processor initialized
+2025-08-25 22:27:59,843 - core.document_processor - INFO - Document processor initialized
+2025-08-25 22:28:14,690 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-25 22:28:14,790 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-25 22:28:15,672 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-25 22:28:15,672 - core.query_processor - INFO - Query processor initialized
+2025-08-25 22:28:15,688 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-25 22:28:15,688 - core.query_processor - INFO - Query processor initialized
+2025-08-25 22:28:20,056 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-25 22:28:20,062 - core.llm_generator - INFO - Gemini client initialized with model: gemini-1.5-flash
+2025-08-25 22:28:20,062 - core.llm_generator - INFO - LLM generator initialized with gemini:gemini-1.5-flash
+2025-08-25 22:28:20,064 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-25 22:28:20,077 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-25 22:28:20,078 - core.llm_generator - INFO - Gemini client initialized with model: gemini-1.5-flash
+2025-08-25 22:28:20,078 - core.llm_generator - INFO - LLM generator initialized with gemini:gemini-1.5-flash
+2025-08-25 22:28:20,078 - core.rag_system - INFO - Semantic RAG system initialized
