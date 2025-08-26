@@ -111,7 +111,7 @@ graph TB
           "./data/test1.txt",
           "./data/test2.txt"
       ]
-   }'
+  }'
    ```
 
 2. **Query the system**
