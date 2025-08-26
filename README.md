@@ -100,9 +100,9 @@ graph TB
    ```
 
 ### Usage Examples
- 
+ ```bash
 1. **Ingest documents**
-   ```bash
+  #  ```bash
   curl -X POST "http://localhost:8000/api/v1/ingest" \
   -H "Content-Type: application/json" \
   -H "API-Key: my-rag-system-password-123" \
