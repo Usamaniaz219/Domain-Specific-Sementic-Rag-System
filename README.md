@@ -100,7 +100,7 @@ graph TB
    ```
 
 ### Usage Examples
-
+ ```bash
 1. **Ingest documents**
    ```bash
   curl -X POST "http://localhost:8000/api/v1/ingest" \
