@@ -2,11 +2,6 @@ from fastapi import Request, HTTPException
 from starlette.middleware.base import BaseHTTPMiddleware
 import time
 import uuid
-
-# from ..config.settings import settings
-# from ..utils.logger import get_logger
-# from ..utils.monitoring import request_counter, request_duration
-
 from config.settings import settings
 from utils.logger import get_logger
 from utils.monitoring import request_counter, request_duration

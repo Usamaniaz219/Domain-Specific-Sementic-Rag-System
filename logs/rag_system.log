@@ -1393,3 +1393,10 @@
 2025-08-27 20:24:02,498 - core.query_processor - INFO - Query processor initialized
 2025-08-27 20:24:02,513 - core.vector_store - INFO - Vector store initialized with chroma
 2025-08-27 20:24:02,515 - core.query_processor - INFO - Query processor initialized
+2025-08-27 20:30:14,639 - core.document_processor - INFO - Document processor initialized
+2025-08-27 20:38:18,243 - core.document_processor - INFO - Document processor initialized
+2025-08-27 20:39:21,139 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-27 20:39:24,728 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-27 20:39:24,728 - core.query_processor - INFO - Query processor initialized
+2025-08-27 20:39:28,565 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-27 20:39:28,565 - core.llm_generator - ERROR - Gemini initialization failed: GEMINI_API_KEY environment variable is not set

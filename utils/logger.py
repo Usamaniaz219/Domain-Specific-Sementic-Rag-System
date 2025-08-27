@@ -3,7 +3,6 @@ import sys
 from pathlib import Path
 from logging.handlers import RotatingFileHandler
 
-# from ..config.settings import settings
 from config.settings import settings
 
 def get_logger(name: str) -> logging.Logger:

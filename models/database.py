@@ -15,14 +15,6 @@ engine = create_engine(
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 Base = declarative_base()
 
-# def get_db_session():
-#     """Get a database session"""
-#     session = SessionLocal()
-#     try:
-#         yield session
-#     finally:
-#         session.close()
-
 def get_db_session():
     """Get a database session"""
     return SessionLocal()

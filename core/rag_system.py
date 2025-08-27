@@ -2,20 +2,6 @@ import logging
 from typing import List, Dict, Any, Optional
 from pathlib import Path
 from datetime import datetime
-
-# from ..config.settings import settings
-# from ..config.constants import RetrievalStrategy
-# from ..utils.logger import get_logger
-# from ..utils.monitoring import monitor_requests
-
-# from .document_processor import DocumentProcessor
-# from .embedding_engine import EmbeddingEngine
-# from .vector_store import VectorStore
-# from .query_processor import QueryProcessor
-# from .reranker import Reranker
-# from .llm_generator import LLMGenerator
-
-
 from config.settings import settings
 from config.constants import RetrievalStrategy
 from utils.logger import get_logger

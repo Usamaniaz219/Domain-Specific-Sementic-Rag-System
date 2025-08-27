@@ -3,13 +3,6 @@ from typing import List
 import time
 import datetime
 import config.settings as settings
-
-# from ..models.schemas import (
-#     QueryRequest, QueryResponse, FeedbackRequest, 
-#     IngestRequest, IngestResponse, HealthResponse
-# )
-# from ..core.rag_system import SemanticRAGSystem
-
 from models.schemas import (
     QueryRequest, QueryResponse, FeedbackRequest, 
     IngestRequest, IngestResponse, HealthResponse

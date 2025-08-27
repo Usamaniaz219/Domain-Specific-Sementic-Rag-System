@@ -4,10 +4,6 @@ from typing import List, Optional
 import requests
 from tenacity import retry, stop_after_attempt, wait_exponential
 
-# from ..config.settings import settings
-# from ..utils.logger import get_logger
-# from ..utils.cache import get_cache, set_cache
-
 from config.settings import settings
 from utils.logger import get_logger
 from utils.cache import get_cache, set_cache

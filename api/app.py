@@ -4,12 +4,6 @@ from contextlib import asynccontextmanager
 from typing import Optional
 import datetime
 import time
-
-# from ..config.settings import settings
-# from ..utils.monitoring import setup_metrics, monitor_requests
-# from .middleware import AuthMiddleware, LoggingMiddleware
-# from .routes import router as api_router
-
 from config.settings import settings
 from utils.monitoring import setup_metrics, monitor_requests
 from api.middleware import AuthMiddleware, LoggingMiddleware

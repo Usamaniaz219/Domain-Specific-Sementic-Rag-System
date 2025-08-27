@@ -3,7 +3,6 @@ import json
 from typing import Any, Optional
 from functools import wraps
 
-# from ..config.settings import settings
 from config.settings import settings
 
 # Redis client (if configured)
