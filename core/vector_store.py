@@ -2,12 +2,16 @@ import logging
 from typing import List, Dict, Any, Tuple, Optional
 import numpy as np
 import os
-
+import chromadb
 from config.settings import settings
 from config.constants import RetrievalStrategy
 from utils.logger import get_logger
 from models.database import get_db_session, DocumentChunk
 import datetime
+import weaviate
+from weaviate import Client
+
+
 
 logger = get_logger(__name__)
 
@@ -32,8 +36,6 @@ class VectorStore:
     def _init_chroma(self):
         """Initialize ChromaDB vector store with new configuration"""
         try:
-            import chromadb
-            
             # NEW: Use PersistentClient instead of the old Client with ChromaSettings
             self.client = chromadb.PersistentClient(
                 path=str(settings.CACHE_DIR / "chroma")
@@ -52,7 +54,6 @@ class VectorStore:
         """Initialize Pinecone vector store"""
         try:
             import pinecone
-            
             pinecone.init(api_key=os.getenv("PINECONE_API_KEY"), environment=os.getenv("PINECONE_ENVIRONMENT"))
             
             if self.collection_name not in pinecone.list_indexes():
@@ -70,9 +71,6 @@ class VectorStore:
     def _init_weaviate(self):
         """Initialize Weaviate vector store"""
         try:
-            import weaviate
-            from weaviate import Client
-            
             self.client = Client(
                 url=os.getenv("WEAVIATE_URL", "http://localhost:8080")
             )

@@ -3,10 +3,13 @@ import logging
 from pathlib import Path
 from typing import List, Dict, Any, Optional
 from datetime import datetime
-
+import PyPDF2
+import docx
 from config.settings import settings
 from config.constants import FileType
+from bs4 import BeautifulSoup
 from utils.logger import get_logger
+import re
 
 
 logger = get_logger(__name__)
@@ -131,7 +134,6 @@ class DocumentProcessor:
     def _load_pdf_file(self, file_path: Path) -> str:
         """Load PDF file content using PyPDF2"""
         try:
-            import PyPDF2
             content = ""
             with open(file_path, 'rb') as f:
                 pdf_reader = PyPDF2.PdfReader(f)
@@ -145,7 +147,6 @@ class DocumentProcessor:
     def _load_docx_file(self, file_path: Path) -> str:
         """Load DOCX file content using python-docx"""
         try:
-            import docx
             doc = docx.Document(file_path)
             return "\n".join([paragraph.text for paragraph in doc.paragraphs])
         except ImportError:
@@ -155,7 +156,6 @@ class DocumentProcessor:
     def _load_html_file(self, file_path: Path) -> str:
         """Load HTML file content and extract text"""
         try:
-            from bs4 import BeautifulSoup
             with open(file_path, 'r', encoding='utf-8') as f:
                 soup = BeautifulSoup(f.read(), 'html.parser')
                 return soup.get_text()
@@ -169,7 +169,6 @@ class DocumentProcessor:
     
     def _split_into_sentences(self, text: str) -> List[str]:
         """Simple sentence splitting (in production, use nltk or spaCy)"""
-        import re
         # Basic sentence splitting by punctuation
         sentences = re.split(r'(?<=[.!?])\s+', text)
         return [s.strip() for s in sentences if s.strip()]

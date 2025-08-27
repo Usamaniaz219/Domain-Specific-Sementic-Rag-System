@@ -1,7 +1,7 @@
 import logging
 from typing import List, Dict, Any, Tuple
 import numpy as np
-
+from sentence_transformers import CrossEncoder
 from config.settings import settings
 from utils.logger import get_logger
 
@@ -17,7 +17,6 @@ class Reranker:
         # Initialize model
         if self.model_name.startswith("cross-encoder/"):
             try:
-                from sentence_transformers import CrossEncoder
                 self.model = CrossEncoder(self.model_name)
             except ImportError:
                 logger.error("sentence-transformers is required for cross-encoder models")

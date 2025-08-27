@@ -8,6 +8,7 @@ from config.settings import settings
 from utils.logger import get_logger
 from utils.cache import get_cache, set_cache
 import hashlib
+from sentence_transformers import SentenceTransformer
 
 
 
@@ -27,8 +28,7 @@ class EmbeddingEngine:
             self.embedding_type = "openai"
         elif self.model_name.startswith("sentence-transformers/"):
             self.embedding_type = "sentence_transformers"
-            try:
-                from sentence_transformers import SentenceTransformer
+            try:  
                 self.model = SentenceTransformer(self.model_name)
             except ImportError:
                 logger.error("sentence-transformers is required for local embedding models")

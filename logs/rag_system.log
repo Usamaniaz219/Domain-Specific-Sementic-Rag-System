@@ -1400,3 +1400,24 @@
 2025-08-27 20:39:24,728 - core.query_processor - INFO - Query processor initialized
 2025-08-27 20:39:28,565 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
 2025-08-27 20:39:28,565 - core.llm_generator - ERROR - Gemini initialization failed: GEMINI_API_KEY environment variable is not set
+2025-08-27 22:18:09,383 - core.document_processor - INFO - Document processor initialized
+2025-08-27 22:21:42,393 - core.document_processor - INFO - Document processor initialized
+2025-08-27 22:23:59,205 - core.document_processor - INFO - Document processor initialized
+2025-08-27 22:27:02,431 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-27 22:38:59,320 - core.document_processor - INFO - Document processor initialized
+2025-08-27 22:39:15,475 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-27 22:44:59,848 - core.document_processor - INFO - Document processor initialized
+2025-08-27 22:46:43,532 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-27 23:03:41,806 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-27 23:04:24,926 - core.query_processor - INFO - Query processor initialized
+2025-08-27 23:06:25,894 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-27 23:07:15,294 - core.llm_generator - INFO - Gemini client initialized with model: gemini-1.5-flash
+2025-08-27 23:07:15,294 - core.llm_generator - INFO - LLM generator initialized with gemini:gemini-1.5-flash
+2025-08-27 23:11:53,170 - core.document_processor - INFO - Document processor initialized
+2025-08-27 23:12:09,026 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-27 23:12:12,031 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-27 23:12:18,636 - core.query_processor - INFO - Query processor initialized
+2025-08-27 23:12:25,796 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-27 23:16:39,917 - core.llm_generator - INFO - Gemini client initialized with model: gemini-1.5-flash
+2025-08-27 23:16:42,577 - core.llm_generator - INFO - LLM generator initialized with gemini:gemini-1.5-flash
+2025-08-27 23:17:09,783 - core.rag_system - INFO - Semantic RAG system initialized
