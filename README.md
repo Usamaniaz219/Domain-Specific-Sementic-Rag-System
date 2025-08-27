@@ -74,7 +74,7 @@ graph TB
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/Domain-Specific-Sementic-Rag-System.git
+   git clone https://github.com/Usamaniaz219/Domain-Specific-Sementic-Rag-System.git
    cd Domain-Specific-Sementic-Rag-System
    ```
 

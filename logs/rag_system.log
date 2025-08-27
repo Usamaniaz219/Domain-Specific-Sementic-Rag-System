@@ -1386,3 +1386,10 @@
 2025-08-25 22:28:20,078 - core.llm_generator - INFO - Gemini client initialized with model: gemini-1.5-flash
 2025-08-25 22:28:20,078 - core.llm_generator - INFO - LLM generator initialized with gemini:gemini-1.5-flash
 2025-08-25 22:28:20,078 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-27 20:23:28,959 - core.document_processor - INFO - Document processor initialized
+2025-08-27 20:23:59,546 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-27 20:24:00,161 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-27 20:24:02,498 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-27 20:24:02,498 - core.query_processor - INFO - Query processor initialized
+2025-08-27 20:24:02,513 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-27 20:24:02,515 - core.query_processor - INFO - Query processor initialized
