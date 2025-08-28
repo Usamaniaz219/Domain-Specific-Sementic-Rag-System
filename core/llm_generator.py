@@ -5,8 +5,8 @@ from tenacity import retry, stop_after_attempt, wait_exponential
 from dotenv import load_dotenv
 import google.generativeai as genai
 from google.generativeai.types import HarmCategory, HarmBlockThreshold
-
-
+import google.generativeai as genai
+import openai
 from config.settings import settings
 from config.constants import LLMProvider
 from utils.logger import get_logger
@@ -29,42 +29,7 @@ class LLMGenerator:
         self.model_name = settings.LLM_MODEL
         self.max_tokens = settings.MAX_TOKENS
         self.temperature = settings.TEMPERATURE
-
         self._init_gemini()
-        
-        
-        # # FORCE MOCK MODE if no valid API key is available
-        # if self.provider == LLMProvider.GEMINI and not os.getenv("GEMINI_API_KEY"):
-        #     logger.warning("OPENAI_API_KEY not found. Switching to mock mode.")
-        #     # self.provider = "gemini"
-        #     # self.model_name = "mock"
-
-        # # print("########################################")
-        # # print("self provider",self.provider)
-
-    
-        # # elif self.provider == LLMProvider.GEMINI and not os.getenv("GEMINI_API_KEY"):
-        # #     logger.warning("GEMINI_API_KEY not found. Switching to mock mode.")
-        # #     self.provider = "mock"
-        
-        # # Initialize based on provider
-        # if self.provider == LLMProvider.GEMINI:
-        #     self._init_gemini()
-        # elif self.provider == LLMProvider.ANTHROPIC:
-        #     self._init_anthropic()
-        # elif self.provider == LLMProvider.HUGGINGFACE:
-        #     self._init_huggingface()
-        # elif self.provider == LLMProvider.BEDROCK:
-        #     self._init_bedrock()
-       
-        # if self.provider == LLMProvider.OPENAI:
-        #     self._init_openai()
-
-        # elif self.provider == "mock":
-        #     self._init_mock()
-        # else:
-        #     raise ValueError(f"Unsupported LLM provider: {self.provider}")
-        
         logger.info(f"LLM generator initialized with {self.provider}:{self.model_name}")
     
     def _init_mock(self):
@@ -75,7 +40,6 @@ class LLMGenerator:
     def _init_openai(self):
         """Initialize OpenAI client"""
         try:
-            import openai
             api_key = os.getenv("OPENAI_API_KEY")
             if not api_key:
                 raise ValueError("OPENAI_API_KEY environment variable is not set")
@@ -96,8 +60,6 @@ class LLMGenerator:
     def _init_gemini(self):
         """Initialize Google Gemini client"""
         try:
-            import google.generativeai as genai
-            
             api_key = os.getenv("GEMINI_API_KEY")
             if not api_key:
                 raise ValueError("GEMINI_API_KEY environment variable is not set")

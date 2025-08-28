@@ -8,6 +8,7 @@ from config.settings import settings
 from utils.monitoring import setup_metrics, monitor_requests
 from api.middleware import AuthMiddleware, LoggingMiddleware
 from api.routes import router as api_router
+from core.rag_system import SemanticRAGSystem
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
@@ -45,10 +46,8 @@ async def root():
     return {"message": "Domain-Specific Semantic RAG System API"}
 
 @app.get("/health")
-async def health():
-    from core.rag_system import SemanticRAGSystem
+async def health(): 
     rag_system = SemanticRAGSystem()
-    
     return {
         "status": "healthy",
         "timestamp": datetime.now(),

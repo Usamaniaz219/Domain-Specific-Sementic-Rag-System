@@ -8,29 +8,10 @@ from models.schemas import (
     IngestRequest, IngestResponse, HealthResponse
 )
 from core.rag_system import SemanticRAGSystem
-
-
 router = APIRouter()
 
 # Initialize RAG system
 rag_system = SemanticRAGSystem()
-
-# @router.post("/query", response_model=QueryResponse)
-# async def query_endpoint(request: QueryRequest):
-#     """Process a user query through the RAG system"""
-#     try:
-#         response = rag_system.query(
-#             request.question,
-#             request.user_id,
-#             request.conversation_history
-#         )
-#         return response
-#     except Exception as e:
-#         print("query response error")
-#         print(f"Response was: {response}")
-#         raise HTTPException(status_code=500, detail=str(e))
-
-
 
 @router.post("/query", response_model=QueryResponse)
 async def query_endpoint(request: QueryRequest):

@@ -1421,3 +1421,97 @@
 2025-08-27 23:16:39,917 - core.llm_generator - INFO - Gemini client initialized with model: gemini-1.5-flash
 2025-08-27 23:16:42,577 - core.llm_generator - INFO - LLM generator initialized with gemini:gemini-1.5-flash
 2025-08-27 23:17:09,783 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-28 22:43:40,856 - core.document_processor - INFO - Document processor initialized
+2025-08-28 22:43:47,736 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-28 22:43:50,705 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-28 22:43:51,671 - core.query_processor - INFO - Query processor initialized
+2025-08-28 22:43:56,278 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-28 22:44:04,516 - core.llm_generator - INFO - Gemini client initialized with model: gemini-1.5-flash
+2025-08-28 22:44:04,516 - core.llm_generator - INFO - LLM generator initialized with gemini:gemini-1.5-flash
+2025-08-28 22:44:05,882 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-28 22:57:46,391 - core.document_processor - INFO - Document processor initialized
+2025-08-28 22:57:51,989 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-28 22:57:52,641 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-28 22:57:52,641 - core.query_processor - INFO - Query processor initialized
+2025-08-28 22:57:56,023 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-28 22:57:56,024 - core.llm_generator - INFO - Gemini client initialized with model: gemini-1.5-flash
+2025-08-28 22:57:56,026 - core.llm_generator - INFO - LLM generator initialized with gemini:gemini-1.5-flash
+2025-08-28 22:57:56,026 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-28 23:14:29,838 - core.document_processor - INFO - Document processor initialized
+2025-08-28 23:14:35,574 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-28 23:14:35,721 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-28 23:14:35,721 - core.query_processor - INFO - Query processor initialized
+2025-08-28 23:14:39,650 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-28 23:14:39,650 - core.llm_generator - INFO - Gemini client initialized with model: gemini-1.5-flash
+2025-08-28 23:14:39,650 - core.llm_generator - INFO - LLM generator initialized with gemini:gemini-1.5-flash
+2025-08-28 23:14:39,650 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-28 23:17:34,725 - api.middleware - INFO - Request c30858e6-6a82-4968-8ebb-9c09a0ff3659 POST /api/v1/ingest completed in 0.00s with status 200
+2025-08-28 23:17:34,740 - core.rag_system - INFO - Starting ingestion of 1 documents
+2025-08-28 23:17:35,167 - core.document_processor - INFO - Successfully loaded data\Biography-Allama-Iqbal.pdf
+2025-08-28 23:17:35,168 - core.document_processor - INFO - Loaded 1 documents
+2025-08-28 23:17:35,173 - core.document_processor - INFO - Created 26 chunks from 1 documents
+2025-08-28 23:17:41,978 - core.vector_store - ERROR - Error storing metadata in database: (sqlite3.IntegrityError) UNIQUE constraint failed: document_chunks.chunk_id
+[SQL: INSERT INTO document_chunks (chunk_id, text, source, file_type, file_hash, chunk_hash, chunk_length, meta_data, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP) RETURNING id, created_at, updated_at]
+[parameters: ('578ba00c450d9451dbde94bfa311d61c', 'IQBAL  by Mustansir Mir  \n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \n \n \nIntroduction  \n \nDr. Sir Allama M ... (2685 characters truncated) ... ialkot’s Scotch \nMission College, where Mir Hasan himself was a pro fessor of Arabic. From there, \nIqbal p assed his intermediate or F.A. in 1895 .', 'data\\Biography-Allama-Iqbal.pdf', 'pdf', '8c56f5bffca44c0ad315287eb5f1243b', '80611b0e841af67636a74414b1beb165', 501, '{"text": "IQBAL  by Mustansir Mir  \\n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \\n \\n \\nIntroduction  \\n \\n ... (3084 characters truncated) ... bal.pdf", "file_type": "pdf", "file_hash": "8c56f5bffca44c0ad315287eb5f1243b", "chunk_hash": "80611b0e841af67636a74414b1beb165", "chunk_length": 501}')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-08-28 23:17:41,978 - core.vector_store - INFO - Added 26 vectors to store
+2025-08-28 23:17:41,978 - core.rag_system - INFO - Document ingestion completed
+2025-08-28 23:19:31,210 - core.document_processor - INFO - Document processor initialized
+2025-08-28 23:19:36,639 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-28 23:19:36,927 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-28 23:19:36,928 - core.query_processor - INFO - Query processor initialized
+2025-08-28 23:19:40,904 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-28 23:19:40,904 - core.llm_generator - INFO - Gemini client initialized with model: gemini-1.5-flash
+2025-08-28 23:19:40,904 - core.llm_generator - INFO - LLM generator initialized with gemini:gemini-1.5-flash
+2025-08-28 23:19:40,904 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-28 23:22:19,015 - core.document_processor - INFO - Document processor initialized
+2025-08-28 23:22:25,410 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-28 23:22:25,688 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-28 23:22:25,688 - core.query_processor - INFO - Query processor initialized
+2025-08-28 23:22:30,242 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-28 23:22:30,242 - core.llm_generator - INFO - Gemini client initialized with model: gemini-1.5-flash
+2025-08-28 23:22:30,242 - core.llm_generator - INFO - LLM generator initialized with gemini:gemini-1.5-flash
+2025-08-28 23:22:30,242 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-28 23:26:48,657 - core.document_processor - INFO - Document processor initialized
+2025-08-28 23:26:53,881 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-28 23:26:54,157 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-28 23:26:54,157 - core.query_processor - INFO - Query processor initialized
+2025-08-28 23:26:58,175 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-28 23:26:58,175 - core.llm_generator - INFO - Gemini client initialized with model: gemini-1.5-flash
+2025-08-28 23:26:58,175 - core.llm_generator - INFO - LLM generator initialized with gemini:gemini-1.5-flash
+2025-08-28 23:26:58,175 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-28 23:32:44,218 - core.document_processor - INFO - Document processor initialized
+2025-08-28 23:32:52,004 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-28 23:32:52,586 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-28 23:32:52,586 - core.query_processor - INFO - Query processor initialized
+2025-08-28 23:32:57,258 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-28 23:32:57,266 - core.llm_generator - INFO - Gemini client initialized with model: gemini-1.5-flash
+2025-08-28 23:32:57,266 - core.llm_generator - INFO - LLM generator initialized with gemini:gemini-1.5-flash
+2025-08-28 23:32:57,266 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-28 23:44:07,415 - core.document_processor - INFO - Document processor initialized
+2025-08-28 23:44:14,441 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-28 23:44:14,583 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-28 23:44:14,583 - core.query_processor - INFO - Query processor initialized
+2025-08-28 23:44:18,869 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-28 23:44:18,872 - core.llm_generator - INFO - Gemini client initialized with model: gemini-1.5-flash
+2025-08-28 23:44:18,872 - core.llm_generator - INFO - LLM generator initialized with gemini:gemini-1.5-flash
+2025-08-28 23:44:18,873 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-28 23:50:24,416 - core.document_processor - INFO - Document processor initialized
+2025-08-28 23:50:32,110 - core.embedding_engine - INFO - Embedding engine initialized with model: sentence-transformers/all-mpnet-base-v2
+2025-08-28 23:50:32,270 - core.vector_store - INFO - Vector store initialized with chroma
+2025-08-28 23:50:32,270 - core.query_processor - INFO - Query processor initialized
+2025-08-28 23:50:36,623 - core.reranker - INFO - Reranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2025-08-28 23:50:36,623 - core.llm_generator - INFO - Gemini client initialized with model: gemini-1.5-flash
+2025-08-28 23:50:36,623 - core.llm_generator - INFO - LLM generator initialized with gemini:gemini-1.5-flash
+2025-08-28 23:50:36,623 - core.rag_system - INFO - Semantic RAG system initialized
+2025-08-28 23:52:51,722 - api.middleware - INFO - Request c327fcae-6f82-4f7a-81bc-c51a073d083c POST /api/v1/ingest completed in 0.02s with status 200
+2025-08-28 23:52:51,722 - core.rag_system - INFO - Starting ingestion of 1 documents
+2025-08-28 23:52:52,124 - core.document_processor - INFO - Successfully loaded data\Biography-Allama-Iqbal.pdf
+2025-08-28 23:52:52,124 - core.document_processor - INFO - Loaded 1 documents
+2025-08-28 23:52:52,124 - core.document_processor - INFO - Created 26 chunks from 1 documents
+2025-08-28 23:52:58,192 - core.vector_store - ERROR - Error storing metadata in database: (sqlite3.IntegrityError) UNIQUE constraint failed: document_chunks.chunk_id
+[SQL: INSERT INTO document_chunks (chunk_id, text, source, file_type, file_hash, chunk_hash, chunk_length, meta_data, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP) RETURNING id, created_at, updated_at]
+[parameters: ('578ba00c450d9451dbde94bfa311d61c', 'IQBAL  by Mustansir Mir  \n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \n \n \nIntroduction  \n \nDr. Sir Allama M ... (2685 characters truncated) ... ialkot’s Scotch \nMission College, where Mir Hasan himself was a pro fessor of Arabic. From there, \nIqbal p assed his intermediate or F.A. in 1895 .', 'data\\Biography-Allama-Iqbal.pdf', 'pdf', '8c56f5bffca44c0ad315287eb5f1243b', '80611b0e841af67636a74414b1beb165', 501, '{"text": "IQBAL  by Mustansir Mir  \\n(Biography of Allama Muha mmad Iqbal, Iqbal Academy, Lahore,  Pakistan, 2008)  \\n \\n \\nIntroduction  \\n \\n ... (3084 characters truncated) ... bal.pdf", "file_type": "pdf", "file_hash": "8c56f5bffca44c0ad315287eb5f1243b", "chunk_hash": "80611b0e841af67636a74414b1beb165", "chunk_length": 501}')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-08-28 23:52:58,192 - core.vector_store - INFO - Added 26 vectors to store
+2025-08-28 23:52:58,192 - core.rag_system - INFO - Document ingestion completed
